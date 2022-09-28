@@ -1,0 +1,3143 @@
+0
+RT @ChipotleTweets: Ethereum’s recent move to proof of stake could mean that ETH now uses 99.95% less energy.
+"RT @WeekInEthNews: Latest Week in Ethereum News
+
+https://t.co/ras2hitBXV
+
+Thanks to @StarbloomVent for making this issue possible 🙏"
+RT @trent_vanepps: 1/ For the past ~6 months, contributors have been building the KZG Ceremony, a pre-req for protodanksharding / EIP-4844…
+RT @dannyryan: Join @vdWijden @barnabemonnot @Infosecual @drigolvc and other technical experts to chat about the Merge Data Challenge *tomo…
+RT @PrivacyScaling: The Privacy and Scaling Explorations Team is sponsoring a dedicated round of grants for applications that integrate the…
+"RT @EFDevcon: 20 days until we see each other in Bogotá 🇨🇴
+
+Check out our Bogotá City Guide for more info as you prepare your trip!
+https:/…"
+"RT @WeekInEthNews: Latest Week in Ethereum News
+
+🐼 Ethereum now secured by Proof of Stake
+
+https://t.co/yF4yRp3Q45
+
+Thanks to https://t.co/…"
+"RT @austingriffith: Are you a developer looking to get into Ethereum?
+
+Here are 15+ hours of video starting from scratch!
+
+✅ Become an Ethe…"
+"RT @joshdavislight: The @ethereum Protocol Fellowship applications are closing soon.⏱
+
+Here is why you should apply..."
+RT @AyaMiyagotchi: 1/ The path toward the Merge wasn't something that could have been predicted from the start. It took real growth, an evo…
+RT @hudsonjameson: Merge Call is starting soon! Join members of @EthCatHerders, @BanklessHQ, @ethStaker, and @thedailygwei us for this monu…
+RT @asn_d6: Curdleproofs is a ZK shuffling scheme by Mary Maller and the EF Cryptography team. We just released the protocol specification…
+"RT @ethereum: The Merge is coming: UPGRADE YOUR CLIENTS!
+
+• The Bellatrix upgrade is scheduled for epoch 144896 on the Beacon Chain – 11:34…"
+RT @TimBeiko: As previously announced, the Kiln, Ropsten and Rinkeby testnets are shutting down. Kiln will be the first to be sunset, ETA n…
+"RT @EF_ESP: Hot off the press: our latest Allocation Update covering projects that received funding in Q1 and Q2!
+https://t.co/J6JGzWHGAM…"
+RT @ethdotorg: https://t.co/FVvSiRzgE4 is migrating from styled-components to Chakra UI. We're 100% open-source, so if you'd like to get in…
+RT @trent_vanepps: welcome to the world, Bellatrix https://t.co/q31itowPbR
+RT @parithosh_j: Bellatrix is live! We're in the endgame now #TestingTheMerge https://t.co/57qg3A9hdf
+"RT @ETHGlobal: ETHBogota is finally here!
+
+💰$300k+ in prizes
+🧩 Mentorship + learning opportunities
+🗺 Collaborate with builders from around…"
+"RT @WeekInEthNews: Latest Week in Ethereum News
+
+🌟 Update your clients before Bellatrix on September 6
+
+https://t.co/upR3HYm1RL
+
+Thanks to…"
+"RT @TMIYChao: Welcome to the Ethereum Protocol Fellowship.
+The fast track to becoming an Ethereum core dev is now open! 
+A fellowship progr…"
+RT @ethdotorg: We're very excited to announce the Ethereum Foundation blog has had a major overhaul and is now available in 16 languages.…
+RT @asanso: Towards practical post quantum Single Secret Leader Election (SSLE) - Part 1 https://t.co/FFCTrZbmQ8 https://t.co/2wiWmbTahl
+"The Merge is coming: UPGRADE YOUR CLIENTS!
+
+• The Bellatrix upgrade is scheduled for epoch 144896 on the Beacon Chain – 11:34:47am UTC on Sept 6, 2022
+• The TTD value triggering The Merge is 58750000000000000000000, expected between 10-20 Sep 2022
+
+MORE: https://t.co/CdW89oSoE6"
+"RT @dannyryan: New @ErigonEth release -- v2022.08.03-alpha -- contains a critical patch to post-Merge block production.
+
+Highly recommended…"
+"RT @WeekInEthNews: Latest Week in Ethereum News
+
+🎂 6th anniversary edition
+
+https://t.co/WP7Pnpv6b9
+
+Thanks to @StarbloomVent for making th…"
+"RT @benjaminion_xyz: Here's your ""On the Verge of the Merge"" edition of What's New in Eth2:
+
+https://t.co/97X85jvdrk
+
+See you all on the ot…"
+"RT @dannyryan: Finalized no. 37
+
+https://t.co/hDCJ08WTk6
+
+tl;dr below"
+"RT @EDCON_Online: This Sunday AUG 28th, EDCON2022 will be celebrating The Merge at Chase Center in San Francisco.
+
+Speakers will be discuss…"
+"RT @JBSchweitzer: This is it: The Merge is coming.
+
+UPGRADE 👏YOUR 👏 CLIENTS! 
+
+https://t.co/MO65IIdLXH
+
++ More👇"
+"RT @go_ethereum: We've just released Geth v1.10.23, a hotfix to patch a state corruption in 1.10.22.
+
+If you've already updated to .22, you…"
+"RT @SomerEsat: Proud to announce that I have published merge-ready mainnet guides for Lighthouse, Nimbus, Prysm, and Teku! 
+
+1/4
+
+https://t…"
+"RT @EFDevcon: 📢🥁🎟️
+Tomorrow will be the last set of ticket waves to Devcon Bogotá!
+
+1600 UTC
+2300 UTC
+
+Best of luck anons!
+Pay with fiat or…"
+RT @vdWijden: Something Something THE MERGE IS COMING  🚀🚀🚀🚀🚀
+"RT @WeekInEthNews: Latest Week in Ethereum News
+
+🐼 Mainnet Merge TTD: 58750000000000000000000 confirmed
+
+https://t.co/zialv4rKKc
+
+Thanks to…"
+RT @TimBeiko: Merge Mainnet Readiness Checklist is all checked out ✅ Feels good 😁 https://t.co/943v4LuS7g
+RT @go_ethereum: The Geth #Ethereum AMA session will start in 30 minutes! (Although we've cheated and answered most questions already :P).…
+"RT @go_ethereum: Have questions for the Geth team? We're holding our first #golang #Ethereum AMA in 47~ hours!
+
+If you'd like to drop quest…"
+"RT @WeekInEthNews: Latest Week in Ethereum News
+
+🐼 Mainnet Merge targets September 15, tentative TTD: 58750000000000000000000
+
+https://t.co…"
+"RT @benjaminion_xyz: What's New in Eth2?
+
+Um, nothing much happened this week 🤷‍♂️
+
+But here you go anyway: https://t.co/97X85jdCzM
+
+#Ether…"
+RT @TimBeiko: Reminder - Sepolia's post merge upgrade is scheduled for next week 📆 If you run a node on the network, you need to upgrade it…
+"RT @dannyryan: Finalized no. 36
+
+https://t.co/tSxJaViwbk
+
+Merge sequence engaged 🚀"
+"RT @nethermindeth: And there we go! Goerli has merged 🐼 🥳
+
+Shout out to all client teams, contributors and the whole #Ethereum ecosystem -…"
+RT @TimBeiko: pandas on the screen! https://t.co/0nYll6gImH
+"RT @DAOResearchCo: We are thrilled to officially announce the launch of our new non-profit DAO Library 🍾🍾🍾
+
+This library aggregates and cur…"
+RT @zeitgeist_xyz: Zeitgeist season three. If you're building a new crypto-native product/protocol, get in touch by August 26 to participat…
+"RT @parithosh_j: The Goerli testnet will merge in the next ~2 days, this will be the last testnet to merge before mainnet. 
+
+If you are run…"
+"RT @WeekInEthNews: Latest Week in Ethereum News
+
+🐼 Mainnet Merge TTD to be set next week
+
+https://t.co/aJ7Eri61Xf
+
+Thanks to @HardhatHQ for…"
+RT @PrivacyScaling: BLS signatures let you aggregate many signatures into one, so less data is stored on chain. BLS Wallet is a tool for bu…
+RT @asn_d6: Fresh work on efficiently verifying large amounts of KZG multiproofs in the context of Ethereum's Data Availability Sampling! R…
+"RT @finematics: A new video is out! 🎦
+
+Ethereum Merge - The Most Anticipated Event In Crypto 
+
+🐼 What is The Merge all about? 
+💡 Motivation…"
+RT @TimBeiko: Also, friendly reminder that the Bellatrix upgrade is happening on Prater tomorrow! If you haven't upgraded your Goerli/Prate…
+"RT @TimBeiko: Another week, another testnet upgrade 😁
+
+Sepolia, which merged a few weeks ago, now needs to undergo a simple post-merge upgr…"
+RT @EFDevcon: Whether you're covering the Merge or Ethereum, Devcon VI is where you'll find the impactful teams and builders working to imp…
+"RT @WeekInEthNews: Latest Week in Ethereum News
+
+🐼 Goerli testnet merges August 6-12
+
+https://t.co/4ISoNC9Vu3
+
+Thanks to @StarbloomVent for…"
+"RT @EFDevcon: 50 potential Scholars.  🎓
+Full support to attend Devcon. 
+3 days left to apply. 
+
+Ever wanted to impact the future of Ethereu…"
+"RT @benjaminion_xyz: We're a fortnight closer to the Merge! 🐼
+
+Catch up with all the latest at https://t.co/97X85jdCzM
+
+#Ethereum"
+"RT @dannyryan: 🎉The Academic Grants Round grantees!🎉
+
+This round was a *huge* success, far exceeding our expectations in quality and quanti…"
+"RT @tinchoabbate: Do you know what happens when you send 1 DAI ?
+
+I don’t think you really do.
+
+I spent weeks seeking for the truth in Ethe…"
+"RT @TimBeiko: 📢📢📢 Goerli/Prater Merge Announcement 📢 📢📢
+
+Prater will run through the Bellatrix upgrade on August 4th, and merge with Goerli…"
+"RT @EFDevcon: 🎟️🎟️🎟️Two Waves🌊. Ticket Sales. Devcon Bogotá 🇨🇴. TODAY!!! 🥳
+
+There will be two sets of drops to accommodate different timezo…"
+RT @_SamWilsn_: The third AllWalletDevs call is this Wednesday July 27th at 12:30 PM ET (4:30 PM UTC)!
+"RT @WeekInEthNews: Latest Week in Ethereum News
+
+🐼 Goerli-shadow-fork-5 merged successfully
+
+https://t.co/7iuFZnq7vW
+
+Thanks to https://t.c…"
+"RT @ETHGlobal: ETHGlobal is coming to Mexico in less than a month! 🪂
+
+🇲🇽 We are so excited to finally be back 🇲🇽
+
+👇🏼 Applications for #ETHM…"
+"RT @EFDevcon: 🎟️🎟️🎟️Finally the great day has come.
+
+The first wave of General Admission tickets to Devcon Bogotá will be dropping today!!!…"
+"RT @gryptooo: A new article is out– we're learning more about Ethereum cryptography, anon. 
+
+https://t.co/NZYCa9Wgw2"
+"RT @WeekInEthNews: Latest Week in Ethereum News
+
+🐼 Merge targeted for mid to late September
+
+https://t.co/K3xMTgGUPw
+
+Thanks to @NexusMutua…"
+RT @vdWijden: Did you know that as a validator for #Ethereum you need to run both a CL node (Lighthouse, Prysm, Teku,...) and an EL node (g…
+"RT @EFNextBillion: Need a little extra time to put together your application for the EF Fellowship Program? No worries!
+
+Applications will…"
+RT @asn_d6: Let's think about DoS attacks against Ethereum block proposers and how validators can gain DoS resilience in the short-term and…
+"RT @EFDevcon: 🎟 DEVCON TICKETS: WAVE-01 BEGINS MONDAY! 🎟 
+
+- Ticket release details (see blog below!)
+- LAST CALL for the Devcon Auction &amp;…"
+"RT @ETHGlobal: Our friends at @ethereum are looking for users, builders and enablers to join #cohort2 of their fellowship program!
+
+How do…"
+RT @JBSchweitzer: The @Ethereum Foundation is looking for an ambitious software developer who can help build and develop an interactive web…
+"RT @WeekInEthNews: Latest Week in Ethereum News
+
+🐼 Sepolia testnet merged successfully
+
+https://t.co/RmDFdIwvBq
+
+Thanks to @HardhatHQ for m…"
+"The @EFNextBillion team is now on twitter! Check them out, and if you're considering an application to the next Fellowship cohort, join Office Hours.
+
+Office Hours: https://t.co/WnYvXKf0Ts
+Call for Applications: https://t.co/w5t9yp08xT
+Fellowship Site: https://t.co/SUjrHdP8mG https://t.co/VjyX7Mgd0C"
+RT @EFNextBillion: Are you interested in the EF’s Fellowship Program? Drop by the office hours session, learn more about it and clarify you…
+"RT @HardhatHQ: Hardhat 2.10.0 is out, and it marks a change in the product direction that Hardhat has historically taken.
+
+https://t.co/hQD…"
+"RT @TimBeiko: AllCoreDevs Update #012 Fresh Off The Press 🔥
+
+It covers the latest on The Merge, incl. how folks should prepare for it, the…"
+"RT @icebearhww: 📢📢📢 Ethereum Foundation Research AMA is open NOW on Reddit!
+
+#Ethereum #AMA
+
+https://t.co/seqkd2gN8L"
+RT @dankrad: Ethereum research AMA in ~2 hours!
+"RT @PrivacyScaling: Semaphore V2 is live! 🥳
+
+Semaphore is a set of tools for building privacy into #Ethereum dapps. Users can prove group m…"
+"RT @drakefjustin: the EF research team will host a Reddit AMA on Jul 7 at 1pm UTC
+
+https://t.co/rXNXyNfEZX"
+"RT @EFDevcon: We're LIVE! Bidding begins NOW on the first tickets to Devcon VI through an on-chain Auction &amp; Raffle.
+
+Direct link to partic…"
+"RT @WeekInEthNews: Latest Week in Ethereum News
+
+Gray Glacier upgrade (delay difficulty bomb) successful
+
+https://t.co/W5xMUKo73W
+
+Thanks t…"
+"RT @benjaminion_xyz: What's New in Eth2?
+
+Here with your regular dose of Merge alpha 😎
+
+https://t.co/97X85jdCzM
+
+#Ethereum"
+RT @PrivacyScaling: BLS Wallet is an #Ethereum Layer 2 smart contract wallet that uses BLS signatures and aggregated transactions to reduce…
+RT @TimBeiko: Sepolia, the second of three public testnets, is merging 🎉 If you run a node on the network, now is the time to upgrade to an…
+"RT @vdWijden: Gray glacier in 40 minutes:
+https://t.co/6oA7DredOs"
+"RT @PatrickAlphaC: ITS FINALLY HERE
+
+🎊🎉🎊🎉🎊🎉🎊🎉🎊🎉🎊🎉
+The Ultimate, Learn Blockchain Development, Solidity, Full-stack Web3, &amp; Smart Contract C…"
+"RT @EFDevcon: 📣📣📣
+
+We have a few exciting announcements for Devcon VI
+
+A mini 🧵
+https://t.co/FZQ2VnkJqS"
+"RT @WeekInEthNews: Latest Week in Ethereum News
+
+🧊 Update your nodes for the Gray Glacier upgrade
+
+https://t.co/QKddmdDRdI
+
+Thanks to https…"
+"RT @EFJavaScript: EthereumJS VM GrayGlacier HF Releases:
+https://t.co/Xlsfu6OWVh
+
+Also see the EF announcement here https://t.co/0LXuy6AEw2…"
+RT @TimBeiko: This has been mentioned a few times already, but here is a proper announcement for the deprecation and shutdown timelines for…
+"RT @AyaMiyagotchi: Applications for the next EF Fellowship Program cohort are open now!
+
+Last year's amazing fellows are creating a positiv…"
+"RT @james_gaps: 🤖 Staking Node Operators RFP 🤖 
+
+The Ethereum Foundation is looking for proposals to build technical staking node operator…"
+RT @TimBeiko: Friendly reminder to upgrade your execution layer clients this week to be ready for Gray Glacier next week 🤖📆
+"RT @WeekInEthNews: Latest Week in Ethereum News
+
+🧊 Update your nodes for the Gray Glacier upgrade
+
+https://t.co/KjaMV4U5rS
+
+Thanks to @Nexu…"
+RT @benjaminion_xyz: Amidst all the reckage and misery, here's your little ray of sunshiny good news for the weekend: What's New in #Eth2.…
+"RT @TimBeiko: 🧊 Gray Glacier Upgrade Announcement 🧊
+
+At block 15,050,000, the Ethereum network will undergo the Gray Glacier fork to push b…"
+"RT @ETHGlobal: We've got a special announcement... 🥳
+
+#ETHNewYork is already set to be our largest in-person event, but we found a little m…"
+RT @ethdotorg: Lots of very exciting changes after deploying v4.2.0 of https://t.co/v9gxnNcrx7 😎🧵 https://t.co/FUibj8wJUk
+"RT @WeekInEthNews: Latest Week in Ethereum News
+
+🎉 Ropsten testnet merged successfully! 🎉
+💣 Difficulty bomb to be delayed several months
+
+h…"
+"RT @TimBeiko: We just wrapped up a *very* eventful @ethereum #AllCoreDevs 
+
+Agenda: https://t.co/NFEtHndQg3
+Stream: https://t.co/yTR8SKGdLC…"
+RT @parithosh_j: Summary of the Ropsten testnet merge: 🧵 https://t.co/xHBManCuru
+RT @lightclients: Ropsten has activated proof-of-stake! https://t.co/TKQ8LSJGt6
+RT @chuycepeda: Our identities hold immense power. At @oscitylatam, we are working to onboard #government services into the world of #web3.…
+RT @TimBeiko: Reminder - we’ll be hitting TTD on Ropsten later this week. If you run a node or validator on the network, you must override…
+"RT @ethdotorg: Calling all Ethereum wallets - we need your help updating your product information &amp; features!
+
+We're shipping updates to ou…"
+RT @peter_szilagyi: This is your periodic reminder that post-merge, #Ethereum execution clients will not guarantee the availability of all…
+"RT @EFDevcon: 🥁📢 Ready, set and GO: We have embarked on the #RoadToDevcon!
+
+ 🚨 Applications are open TODAY 🚨
+
+Apply as a
+🧱 Builder
+📚 Studen…"
+RT @EthereumOnARM: If you are joining the #Ethereum Ropsten fork don't forget to update the clients TTD to 50000000000000000.
+"RT @WeekInEthNews: Latest Week in Ethereum News
+
+🐼 @TimBeiko Ropsten testnet to Merge
+📧@skiffprivacy e2e encrypted email using Eth wallet &amp;…"
+"RT @benjaminion_xyz: The latest What's New in Eth2 is out!
+
+Reorgs, Ropsten, research, regular recordings - and lots of other stuff that do…"
+"RT @skiffprivacy: End-to-end encrypted, private email - powered by your @ethereum wallet.
+
+10 GB storage, fast + free search, @ensdomains i…"
+"RT @TimBeiko: 📣 Ropsten Merge Update 📣
+
+As mentioned in the Ropsten Merge Announcement, the terminal total difficulty (TTD) at which The Me…"
+"RT @EF_ESP: Our latest Grantee Roundup is out!
+
+https://t.co/ABRbv82x3S
+
+Featuring @ethnimbus for their Fluffy client and Portal Network de…"
+"RT @PrivacyScaling: Quadratic Funding is coming to a hackathon near you🥳https://t.co/AQd48XiZQd
+
+@EthPrague attendees will vote in person o…"
+RT @sreeramkannan: This is a post in appreciation of the Ethereum PoS protocol, in the context of recently raised questions. @VitalikButeri…
+"RT @TimBeiko: 📣 Ropsten Merge Announcement 📣
+
+Ethereum's longest lived PoW testnet is moving to Proof of Stake! A new beacon chain has been…"
+"RT @WeekInEthNews: ⟠ Latest Week in Ethereum News!
+
+🦄 @Uniswap $1 trillion cumulative trading volume
+🤿 @jon_charb Ethereum roadmap deep div…"
+"RT @TimBeiko: Another merge-heavy @ethereum #allcoredevs today 😁 TTD, beacon chains, Ropsten, difficulty bomb, we covered it all!
+
+Agenda:…"
+RT @JBSchweitzer: The @Ethereum Foundation is searching for a Hiring Coordinator to help find great people for our community of teams &amp; pro…
+"RT @jon_charb: This is THE definitive deep dive on Ethereum’s ambitious roadmap.
+
+Special thanks to @dankrad for your insights and review!…"
+"RT @WeekInEthNews: ⟠ Latest Week in Ethereum News!
+
+⛅ @Cloudflare to stake their $ETH to support the Merge
+🐼 @dannyryan mainnet-shadow-fork…"
+"RT @benjaminion_xyz: Get your #Ethereum  Merge alpha here!
+
+https://t.co/BsoMObHv9p
+
+All your regular updates on What's New in #Eth2 in one…"
+RT @superphiz: Today is the day to turn up the volume on the clr fund matching round hosted by @ethStaker, the EF, and @clrfund! What can y…
+"RT @dannyryan: Finalized no. 35
+
+https://t.co/676ZgSZquQ
+
+tl;dr below"
+"RT @dannyryan: EF Data Availability Sampling (DAS) RFP just released
+
+https://t.co/N5Mq1XnvjB
+
+DAS is a hard but critical problem to solve…"
+RT @gballet: What does using the Condrieu #verkle testnet look like? A thread.
+"RT @0xPARC: [New Post] zkPairing: zkSNARKs for Elliptic Curve Pairings
+
+@jonathanpwang, @vvhuang_, and @theyisun present elliptic curve pai…"
+"RT @fredriksvantes: Secured #4 is out with major Bug Bounty Program updates! 
+
+One highlight: a *substantial* reward increase of up to $250…"
+"RT @SomerEsat: Please to share my first guide in the series of migration guides ""Migrating from Prysm to Nimbus"" is complete! 
+
+https://t.c…"
+"RT @WeekInEthNews: ⟠ Latest Week in Ethereum News!
+
+🐼 @trent_vanepps Ropsten testnet to upgrade to PoS around June 8
+🚂 @parithosh_j mainnet…"
+"RT @TimBeiko: Better late than never, another @ethereum #AllCoreDevs recap. Tons of Merge updates on today's call! 
+
+Agenda: https://t.co/R…"
+RT @sproulM_: I *think* this is a more accurate picture of Ethereum consensus client diversity recently https://t.co/0QsocORx1y
+RT @parithosh_j: Mainnet-Shadow-Fork-4 looks perfect! All clients went through the transition without a hitch. Only erigon missing (unrelat…
+RT @_D4nie1_: Beta version of Snap Sync in @nethermindeth is ready ! Reducing #Ethereum mainnet state sync even to 2h on a very fast machin…
+RT @TimBeiko: With the @nethermindeth snap sync support announcement, now's a good time to remind folks that, post-merge, EL client diversi…
+"RT @_SamWilsn_: Tentatively scheduled the first AllWalletDevs call for May 11th!
+
+If you aren't in the Discord, but think you should be, le…"
+"RT @WeekInEthNews: ⟠ Latest Week in Ethereum News!
+
+🐼 @parithosh_j mainnet shadow fork 3 almost perfect
+📛 @ensdomains one million names cre…"
+"RT @benjaminion_xyz: It's been a minute frens.
+
+But https://t.co/LeRPRKrtQP is back, and it's a mahousive edition!
+
+So plan a nice long cof…"
+"RT @yAcademyDAO: Dearest shadowy super coders, builders, and degens:
+
+With our 3rd block slated for June, we'd like to formally introduce y…"
+"RT @TimBeiko: AllCoreDevs Update 011 out now 💫
+
+Entirely focused on The Merge, I walk through what we're expecting across shadow forks, tes…"
+"RT @JBSchweitzer: The @Ethereum Foundation is hiring a People Operations Lead!
+
+If you're passionate about open source collaboration, decen…"
+"RT @WeekInEthNews: ⟠ Latest Week in Ethereum News!
+
+⛵ @parithosh_j mainnet shadow fork 2 smooth sailing
+🔴 @optimismPBC $OP governance token…"
+"RT @ETHGlobal: Last year's #HackMoney was our largest event to-date...
+
+This year, we're going even bigger!
+
+Join us May 6th-27th for #Hack…"
+RT @trent_vanepps: We recently started a public mailing list for information related to Ethereum network upgrades, testnets, and security…
+"RT @ethdotorg: Hello world! Finally a website for the Cryptography Research team at @Ethereum Foundation ✨
+
+Explore our crypto research and…"
+"RT @ethdotorg: Our Q2 roadmap is (finally) out! Check it out &amp; get involved 🚀
+
+https://t.co/dvaN6bXJut"
+"RT @WeekInEthNews: ⟠ Latest Week in Ethereum News!
+
+🌈 Ethereum Foundation: philosophy, ecosystem support &amp; spending
+☀️ @etheralphateam Suns…"
+RT @AyaMiyagotchi: 1/ The goal of @EFDevconnect was to make room for important depth-first discussions, and for magic to happen for Ethereu…
+RT @clrfund: We are excited to announce that, with the support of the @ethereum foundation, we have teamed up with @ethStaker to run a 350,…
+"RT @EFDevconnect: At one venue but want to listen to a talk in another venue?
+
+OR missed a talk like @AyaMiyagotchi’s talk on Devconnect or…"
+RT @AyaMiyagotchi: 1. Today we’re publishing the EF report! We hope it helps the community understand what the Ethereum Foundation is, our…
+"Today we’re publishing the EF report!
+ 
+This is a new way to communicate our core values, explain what makes the EF unique, and share information about all of the ways that EF teams contribute to our vision of Ethereum as an Infinite Garden.
+
+Read it here: https://t.co/dW41XUJo1y https://t.co/1OK8L8YHoM"
+"RT @WeekInEthNews: ⟠ Latest Week in Ethereum News!
+
+🧪 @parithosh_j mainnet shadow fork successful
+🐼 @timbeiko the merge likely won’t be Jun…"
+"RT @0xstark: 0. Atoms, Institutions, Blockchains
+
+This is my answer to why crypto matters, what problem blockchains solve, and how Ethereum…"
+RT @BLulinski: Some of my friends have started spending more time learning about Ethereum, and many have asked me similar questions - What'…
+RT @gballet: The Condrieu #verkle testnet is now open to the public. Landing page at https://t.co/VcXqNt7nrY
+RT @fredriksvantes: Interested in learning more about what the EF security research team has been up to? We've got updates on audits, fuzzi…
+RT @yAcademyDAO: We are excited to announce that the third block of yAcademy's fellowship program will be starting in June.  If you or some…
+RT @terencechain: Consensus client diversity has been improving a ton over the last few weeks. It's still not perfect, but we'll get there…
+"RT @EF_ESP: TEN DAYS LEFT! Apply by April 22nd to the Academic Grants Round! 🤓📚 
+
+Calling all academics, research centers, PhD students and…"
+"RT @WeekInEthNews: ⟠ Latest Week in Ethereum News!
+
+🆙 @timbeiko Core Devs to decide Apr 29 when to fork testnets
+⚠️ @etheralphateam client…"
+"RT @benjaminion_xyz: Your favourite regular update on the future of Ethereum is here: https://t.co/97X85jdCzM!
+
+#Ethereum #Eth2"
+"RT @SomerEsat: Ethereum Staking Guides have been updated.
+
+- Added info for fallback Eth1 nodes for Prysm, Teku, and Nimbus.
+
+- Added steps…"
+"RT @EthPrague: ""Oh, I love Prague!""
+~Everyone who's ever been to Prague
+
+If you've never been, or even if you have, why not sign up to hack…"
+"RT @ETHIndiaco: We recently launched ETHIndia Grants 🇮🇳 to provide equity-free grants to builders building on @ethereum  
+
+Since inception…"
+"RT @EF_ESP: We're hiring! 
+
+Interested in joining a dynamic team committed to supporting Ethereum's builders? Check out these open position…"
+"RT @dannyryan: Ever wondered how the EF’s Client Incentive Program works?
+
+Full (technical!) details have just been added to the original b…"
+"RT @WeekInEthNews: ⟠ Latest Week in Ethereum News!
+
+🎉 @superphiz no more supermajority staking client
+⚒️ @gakonst Foundry v0.2.0
+✂️ @Hyperl…"
+"RT @ethdotorg: #L222 
+
+Learn more: https://t.co/0MNAEuPOLB"
+RT @go_ethereum: Geth v1.10.17 (Ploitari) is out! This release contains a lot of work in preparation for The Merge, and work for an upcomin…
+"RT @dankrad: If you are staking on Ethereum and currently running Prysm, this is for you: Run the majority client at your own peril!
+https:…"
+"RT @TimBeiko: Later than expected, here is another ACD update, fresh off the press 🔥 
+
+2500 words to cover the latest Merge updates ⛓, Shan…"
+"RT @WeekInEthNews: ⟠ Latest Week in Ethereum News!
+
+⚠️ @dankrad running majority client puts you at risk
+🐼 @dannyryan help test #TheMerge…"
+"RT @benjaminion_xyz: What's new in #Eth2?
+
+It's been another busy couple of weeks!
+
+ - Kiln testnet launch
+ - Teku incident review
+ - Shado…"
+"Looking for information on The Merge and beyond?
+
+@TimBeiko's newest All Core Developer's (ACD) update includes the latest on Ethereum's (big) next upgrades.
+
+https://t.co/vmQjwre0IK https://t.co/ZDNicXmkiy"
+"RT @austingriffith: 🏃‍♀️ https://t.co/Tuhv0qKkIX is a great place for good coders to get started building decentralized applications.
+
+🎥  C…"
+"RT @dannyryan: Finalized no. 34
+
+https://t.co/3IY87ExIE9
+
+Kiln🧱🔥 testnet is live, and the word of the month is Testing, Testing, Testing.…"
+"RT @EF_ESP: Don't be a last-minute submitter! There is exactly one month left to apply for the Academic Grants Round! 🤓📚 
+
+🚀 Boost Ethereum…"
+"RT @yoavw: Optimistic Time Traveling for fun and profit!
+
+New classes of attacks against optimistic rollups, demonstrated on Optimism's old…"
+"RT @EF_ESP: ICYMI: check out our recent Allocation Update covering Q3/Q4 2021! 
+https://t.co/asbcO7Yf2W
+
+In the second half of 2021 we awar…"
+"RT @Gigaconnect: 🚀 Our Patchwork Kingdom #NFTs have raised over $700,000 and built a community of advocates for school connectivity. 
+
+Read…"
+"RT @WeekInEthNews: ⟠ Latest Week in Ethereum News!
+
+🐼 @timbeiko Kiln testnet successfully switched off PoW
+📰 @Time puts @VitalikButerin on…"
+"RT @benjaminion_xyz: Enough proof-reading, I'm going cross-eyed. Here you go:
+
+✅ BLS Signatures
+
+First cut done.
+
+https://t.co/i422MoZiwR"
+RT @TIME: .@VitalikButerin co-founded Ethereum. Now he's fighting for crypto's future https://t.co/b90AaKXM51 https://t.co/gUz2Vnm35F
+RT @gballet: I'm starting a series of threads to highlight some of the changes that come with stateless #Ethereum  and #Verkle trees. Today…
+"RT @PrivacyScaling: Do you have a passion for Ethereum and applications of ZKPs, as well as leadership experience?
+Apply for the Technical…"
+RT @AyaMiyagotchi: I wrote a blog about the challenges of ESG systems, and how the Ethereum ecosystem can inspire them to improve. Thanks @…
+RT @ethdotorg: (1/15) https://t.co/v9gxnMUQFz has the best POAPs ☺️  want one? 🧵 https://t.co/ysJ3xeEHko
+"RT @TimBeiko: Kiln, the next iteration of Ethereum merge testnets, is now live 🔥🧱
+
+Highly recommended that node operators, application deve…"
+"RT @benjaminion_xyz: It's that What's New in Eth2 time of the week 🥳
+
+Always available at https://t.co/97X85jdCzM
+
+Catch up with the latest…"
+"RT @WeekInEthNews: ⟠ Latest Week in Ethereum News!
+
+🧱 @parithosh_j Kiln testnet launched to test PoW switch off
+🇫🇷 @timbeiko Execution Laye…"
+RT @gballet: A demo video of the Condrieu #verkle tree testnet. This is a single-client testnet, producing blocks with proofs of the presta…
+RT @vdWijden: It's time to get #TestingTheMerge going again! We spun up the Kiln 🧱🔥 testnet to test #Ethereum's upcoming move to proof-of-s…
+RT @EF_ESP: Are you interested in (or already) contributing to #Ethereum research, and excited about the creation of knowledge? NOW is the…
+"RT @fredriksvantes: ""Secured #2: Public Vulnerability Disclosures"" is now live at https://t.co/ZGH1K5TpPb! This is the first public disclos…"
+RT @fvictorio_nan: I wanted to make some small improvements to evm-puzzles but... I ended up re-writing the whole thing. Now it's 100x bett…
+"RT @TimBeiko: .@ethereum #AllCoreDevs today was packed with Merge &amp; Shanghai updates 👀
+
+Agenda: https://t.co/EPKmTOmed8
+Stream: https://t.c…"
+RT @UNICEFinnovate: The @UNICEF Venture Fund and @Gigaconnect are making equity-free investments in #blockchain solutions that build capaci…
+RT @AttestantIO: Evaluating Beacon Nodes 2022  https://t.co/5st8VrWDfv
+"RT @ethnimbus: We have a new release out :)
+
+Nimbus v1.7.0 is a low-urgency feature-packed upgrade.
+
+Highlights include:
+
+- Faster startup…"
+"RT @EF_ESP: Calling all academics, research centers, PhD students and others interested in researching Ethereum:
+
+We're excited to announce…"
+"RT @zeitgeist_xyz: We're excited to kick off the second season of Zeitgeist.
+
+We will be coming together for a 12-week sprint starting on M…"
+"RT @0xPARC: [APPLY BY FRIDAY 3/4] 0xPARC Applied ZK Learning Group #2 
+
+We'll be running our second Applied ZK Learning Group from 3/14 - 4…"
+"RT @benjaminion_xyz: Hey, hey, heeey - it's your regular update on What's New in Eth2!
+
+Find it all at the usual place, https://t.co/97X85j…"
+"RT @mysticryuujin: I wrote a new blog post!
+
+Getting Start with @trueblocks!
+
+https://t.co/vCo29Mh7w8"
+RT @AyaMiyagotchi: イーサリアムファウンデーションから日本のチームへの助成金を発表しました。今回はインフラ技術だけでなく、金銭的なリターンが得にくいdefi以外の面白いユースケースを作っているチームへ。@zkcre_am, @zkcloud_l2, @star…
+"RT @EFDevconnect: 👋👋👋
+
+Looking to attend #Devconnect Week? The first wave of tickets for the Co-Work Space goes live... NOW!
+
+Find details…"
+"RT @ethdotorg: We've translated the eth2 renaming blog into 10 more languages. Spread the word 🌍🙏
+
+https://t.co/84uJXSD4q1"
+"RT @EF_ESP: Adding to the list of cool things happening in 2022 - the brand new ESP site: https://t.co/YiCcXnoMOA 
+⌛️ office hours
+💅 more g…"
+RT @ethdotorg: So you want to move on to an L2? You'll want to learn about bridges 🌉👇special thanks to @lifiprotocol for helping with the w…
+RT @superphiz: .@coinbase and @krakensupport hold 78k out of 296k validators on the Ethereum beacon chain and they're running @prylabs with…
+"RT @protolambda: At @EthereumDenver we hacked together a full data-blob-transaction prototype! (a.k.a. mini-danksharding)
+
+Data blobs are t…"
+"RT @WeekInEthNews: ⟠ Latest Week in Ethereum News!
+
+🇨🇴 @EFDevcon Devcon 6 Bogotá October 11-14
+💁‍♀️ @Twitter adds ETH addresses to Tips
+🚩 @…"
+"RT @EFDevcon: It's happening.
+
+Devcon 6: 11-14 October, 2022
+
+See you in Bogotá!
+
+https://t.co/OeVzMkkRaC"
+"RT @0xinvis: I'm happy to finally release https://t.co/tdFo7rCphP to the public!
+
+Gain Insight to the Prysm Usage of popular Ethereum Staki…"
+RT @jgm: Short post on how Vouch can help with client diversity and the supermajority issue: https://t.co/0Jlb1k7sDk
+"RT @icebearhww: ""Dude, what’s the #danksharding situation?""
+
+📣 EF Research team is hosting an educational seminar with researchers and core…"
+"RT @benjaminion_xyz: What's New in Eth2?
+
+Here you go: https://t.co/97X85jdCzM
+
+#Ethereum #Eth2"
+"RT @WeekInEthNews: ⟠ Latest Week in Ethereum News!
+
+🪄 @solidity_lang Underhanded Solidity Contest
+💵 @KPMG_Canada adds Ether to balance shee…"
+"RT @0xPARC: [New post] zkSNARKs for ECDSA (Part 1)
+
+@theyisun, Tony L, @xu3kev, and @gubsheep present an efficient proof-of-concept impleme…"
+RT @solidity_lang: Submissions for the Underhanded Solidity Contest 2022 are open! This year's mission? Build a decentralized exchange wher…
+RT @NomicFoundation: We're excited to announce that Nomic Labs, the team behind @HardhatHQ, is becoming the Nomic Foundation: a non-profit…
+RT @solidity_lang: The results of the 2021 Solidity Developer Survey are out! 🥳 A big thank you to everybody who took the time and particip…
+"RT @WeekInEthNews: ⟠ Latest Week in Ethereum News!
+
+🇮🇳 @FinMinIndia India to tax transfer of digital asset income at 30%
+🕹️ @GameStop NFT m…"
+RT @TimBeiko: Another @ethereum #AllCoreDevs wrapped up this morning. Deep dives into The Merge &amp; Shanghai, one of my favorite calls in a w…
+RT @christine_dkim: Another week, another #Ethereum ACD call to summarize. 🧵Thread below on the highlights from today’s bi-weekly developer…
+"RT @trent_vanepps: On Feb 11, @TimBeiko and i will be running the 3rd Merge Community Call. 🐼 
+
+If you missed the first two, make sure to a…"
+RT @ethdotorg: New awesome use case page for running a node for Ethereum led by @wackerow. It introduces what it means to run a node, why y…
+"RT @EFDevconnect: Save the date(s)! Devconnect is scheduled to take place in Amsterdam between 18-25 April 2022.
+
+Check out today's post fo…"
+RT @EF_ESP: Check out our latest grantee roundup, featuring @l2beatcom and the GASOL gas optimization toolkit from @TheCostaGroup: https://…
+"RT @dhaiwat10: A guide to Web3 for Web2 frontend devs ✨
+
+Hopefully this is useful! :)
+
+https://t.co/LkJTETrIxq"
+RT @ethdotorg: We're very excited to see lots of interest in running an Ethereum node since launching our new run a node page 🤖❤️  https://…
+"RT @alcuadrado: Hardhat motivations and strategy: a bit of history and future roadmap
+
+🧵"
+"RT @dannyryan: Finalized 33. 
+https://t.co/q2hx53wvcK
+
+tl;dr below"
+"RT @devfolio: We are thrilled to announce “ETHIndia Grants by Devfolio” 🥰
+
+Equity-free grants of upto $5k for teams or individuals who want…"
+"RT @VitalikButerin: A quick reminder of what ""shared security"" means and why it's so important.
+
+https://t.co/NdH5jpKIQz"
+"RT @signinwitheth: Want to get started building with Sign-In with Ethereum?  
+
+The Sign-In with Ethereum developer portal is now LIVE and c…"
+"RT @hexonaut: Wrote an article about deploying your token/dapp to L2 first and the mental model switch involved with making this choice.
+
+h…"
+"RT @TimBeiko: New @ethereum #AllCoreDevs update fresh off the press 🔥! 
+
+It covers Kintsugi 🍵, upcoming devnets 🏗, the next Community Call…"
+"RT @transmissions11: incredible gas alpha from @_hrkrshnn
+
+⛽️👑
+
+https://t.co/YhvQbRgWo6"
+"RT @etheralphateam: We're proud to announce https://t.co/HZDz72oVyt, a resource site geared towards Ethereum client diversity.
+
+Thanks to @…"
+"RT @paulmillr: Proud to release ethereum-cryptography 1.0 funded by @ethereum foundation.
+
+The new audited libraries behind it will empower…"
+"RT @ethdotorg: We've removed all uses of 'Eth2' terminology on https://t.co/v9gxnMUQFz 
+
+Find out why 👇 https://t.co/84uJXSD4q1"
+"RT @WeekInEthNews: ⟠ Latest Week in Ethereum News!
+
+🗓️ @0xstark Year in Ethereum 2021
+🐦 @Twitter hexagon NFT profile pics on iOS
+🐼 @vdWijde…"
+"RT @TimBeiko: We just wrapped up @ethereum #allcoredevs no. 130! Covered a lot of Merge ⛓ &amp; Shanghai updates 🇨🇳
+
+Agenda: https://t.co/JuXjY…"
+RT @UNICEFinnovate: @UNICEF and @Gigaconnect are looking to invest in #startups developing #blockchain-based software solutions that help b…
+"RT @austingriffith: 🧑‍🚀 If you understand why decentralization is so important and powerful...
+
+🧑‍💻 And you know how to write code and buil…"
+"RT @0xstark: The Year in Ethereum 2021
+
+by me &amp; @evan_van_ness 
+
+https://t.co/qr8Ni5fN75"
+"RT @WeekInEthNews: ⟠ Latest Week in Ethereum News!
+
+⚠️ @sproulM_ super-majority staking client!
+🦆 @optimismPBC transaction fees ~30% cheape…"
+"RT @benjaminion_xyz: Happy New Year, everybody!
+
+Here's your first https://t.co/LeRPRKrtQP of 2022 🎉
+
+Loads going on as ever - apparently E…"
+RT @dannyryan: The new @ethnimbus release uses 1GB of memory on mainnet today and they expect they can get it firmly under 1GB in subsequen…
+RT @crisgarner: Announcing Honduras CLR Grants! This is something that the @EthereumTGU community has been working for months with the @clr…
+"RT @WeekInEthNews: ⟠ Latest Week in Ethereum News!
+
+🎯 @VitalikButerin multidimensional EIP1559
+📺 @Samsung 2022 TVs to include NFT platform…"
+"RT @drakefjustin: the EF research team will host a Reddit AMA on Jan 7 at 1pm UTC
+
+https://t.co/J2wL8oDrz9"
+"RT @austingriffith: 🎖 So you’ve crushed the 🏗 scaffold-eth challenges. 
+
+🧙‍♂️ You understand how to build a simple NFT, a staking app, and…"
+"RT @go_ethereum: Geth v1.10.15 is released!
+
+It contains a few important bugfixes, so please upgrade  #golang #Ethereum
+
+https://t.co/NYphf…"
+"RT @vdWijden: A big thanks to everyone participating in #TestingTheMerge! Some stats:
+
+The Kintsugi testnet is about to hit block 100.000,…"
+RT @EthereumOnARM: 1/ This is an Archive #Ethereum node synced from scratch on a @raspberry_pi (@erigoneth). No pruning, an Archive node. S…
+"RT @WeekInEthNews: ⟠ Latest Week in Ethereum News!
+
+⭐ @icebearhww PoW switch off consensus upgrade named Bellatrix
+💼 @SAP joins @EntEthAlli…"
+"This holiday season (and always), we’re thankful for the incredible work of the many EF-supported teams that continue to improve #Ethereum.
+
+A final (hefty) EF-Supported Teams Roundup of 2021 from 15+ teams is here, and it's worth the read. 
+
+Enjoy! 🦄
+
+https://t.co/HGcVVPCZgX"
+"RT @pintail_xyz: New article looking at the Ethereum gas market before and after the London hard fork - did EIP-1559 deliver?
+
+https://t.co…"
+RT @ethdotorg: Excited to have the new https://t.co/v9gxnMUQFz homepage live in over 20 languages 🌍❤️ Check out your language: https://t.co…
+"RT @dannyryan: Are you 
+* a p2p networking wiz
+* a lover hard problems
+* self driven
+* and want to change the world?
+
+Then join us as on th…"
+RT @TimBeiko: Over the past few months, client teams have been working tirelessly to implement a new set of merge milestones. They are now…
+"RT @benjaminion_xyz: 🎄 Did Christmas come early?
+
+No, it's only your last pre-festivities edition of What's New in Eth2 🎁
+
+Here with your u…"
+"RT @WeekInEthNews: ⟠ Latest Week in Ethereum News!
+
+🍵 Kintsugi testnet live, help test PoW switch off
+2️⃣ @optimismPBC permissionless deplo…"
+RT @vdWijden: Are you bored on a friday night? Don't know what to do over the weekend? Get involved in #TestingTheMerge and help us get #Et…
+"RT @protolambda: The Kintsugi Merge testnet is live!
+
+And it is incredibly easy to use and join, thanks to @parithosh_j, @skylenet and the…"
+RT @ethdotorg: We've launched a page about Ethereum's energy consumption 🌳🌳 interested to hear how we're reducing energy consumption by 99%…
+"RT @sajidazouarhi: This is a Ξ 39168 incentive program. 🎉
+At current value that's: $158mil
+This is next level ecosystem funding. 
+Kudos to…"
+"RT @AyaMiyagotchi: 1/We strongly believe that a diverse set of clients is essential to Ethereum's health and decentralization.
+
+To ensure t…"
+"RT @EFDevconnect: 👋👋👋...
+
+Meet Devconnect: A week-long gathering in Amsterdam featuring independent Ethereum events, each with a unique foc…"
+"RT @WeekInEthNews: ⟠ Latest Week in Ethereum News!
+
+🏁 @VitalikButerin scalable blockchain endgame
+🪙 @Reddit expanding Community Points
+🚧 @m…"
+RT @TimBeiko: We had our last @ethereum #AllCoreDevs of 2021 today 📆! This was IMO one of the most interesting calls of the year, and recom…
+RT @protolambda: Arrow Glacier is here! #ethereum https://t.co/zpNCaQAQB0
+"RT @nethermindeth: 👋Don't forget to update your nodes to version 1.11.7 or above before the Arrow Glacier mainnet hard fork!
+
+Block number:…"
+RT @benson_njuguna: Enhanced trust and timely payouts! We’re proud to be leading a successful Microinsurance solution on Ethereum that serv…
+"RT @solidity_lang: The Solidity Developer Survey 2021 is live! 📋🎉
+The survey helps us to further improve the language &amp; compiler and shape…"
+RT @TimBeiko: Arrow Glacier expected in 3 days. If you haven't yet, upgrade your nodes ⛓👀
+RT @tair: Been learning Web3 on the side and was fortunate to collaborate with @ComityLabs 🙌 on https://t.co/H4JKerjeEr - An interactive re…
+RT @lightclients: The Arrow Glacier upgrade is just over one week away - don't forget to update your Ethereum clients. https://t.co/DNnNDKp…
+"RT @benjaminion_xyz: 📰 What's New in #Eth2 has hit the stands! 📰
+
+https://t.co/97X85jdCzM
+
+I'm sorry it's not quite as polished as I usuall…"
+"RT @TimBeiko: I just published another #AllCoreDevs update, covering Arrow Glacier 🏹🧊, Kintsugi 🍵 and the recently proposed EIP-4488 📜 
+
+St…"
+RT @gballet: Interested in implementing verkle trees in your clients, but find the spec daunting? @dankrad and I give a simple explanation…
+"RT @VitalikButerin: Happy birthday beacon chain!
+
+Here's an updated roadmap diagram for where Ethereum protocol development is at and what'…"
+"RT @BanklessHQ: 🚨 IT'S TIME FOR CRYPTO ADVOCACY 🚨
+
+Bankless and @gitcoin are teaming up to kick off Gitcoin Rd 1️⃣2️⃣
+
+$800k is being MATCH…"
+"RT @trent_vanepps: it's another day (gm) so you know i'm tweeting about this community call🤩 w/ @TimBeiko 
+
+→ Merge Community Call #2
+→ Thi…"
+"RT @devfolio: Introducing ETHWMN Fellowship: Exclusively for women builders from 🇮🇳 to break into the @ethereum ecosystem!
+
+🚀 Get mentored…"
+"RT @TimBeiko: Fresh off the press: ""How The Merge Impacts Ethereum’s Application Layer"" 🔥 
+
+If you are an Ethereum application/infra/toolin…"
+"RT @WeekInEthNews: ⟠ Latest Week in Ethereum News!
+
+🗺️ @VitalikButerin scaling rollups roadmap
+🥇 @ChainSafeth Lodestar proposed its first m…"
+"RT @EthereumOnARM: Last @go_ethereum sync on a @Raspberry_Pi 4.
+ 
+It took less than 2 days to sync the whole #ethereum blockchain from scra…"
+"RT @TimBeiko: We just wrapped up #AllCoreDevs 127 🦃
+
+Agenda: https://t.co/cK7fQHTnda
+Stream: https://t.co/bbX43I77Yd
+
+Recap below 👇🏻"
+RT @AyaMiyagotchi: 1/ There are many heroes in the EF family that I would like to give a shoutout to. Today's shoutout goes to @AustinGrifi…
+RT @AyaMiyagotchi: We've come a long way since the UNICEF #CryptoFund was announced at @EFDevcon in 2019. Here's more on what @Ethereum Fou…
+RT @lightclients: We're doing an AMA on Reddit right now with @VitalikButerin on history expiry, come ask your questions! https://t.co/nWIN…
+"RT @dannyryan: Finalized no. 32
+
+https://t.co/pkKTYPMVub
+
+tl;dr below"
+"RT @WeekInEthNews: ⟠ Latest Week in Ethereum News!
+
+2️⃣ @binance adds direct deposit to @arbitrum
+🌉 @CelerNetwork cBridge v2.0 live on main…"
+RT @benjaminion_xyz: A fairly light edition of What's New in #Eth2 for you this week. I'm a bit focused on a *secret* *project* that I'm pl…
+RT @ethdotorg: Our events calendar needs some love ❤️ What Ethereum conferences or events are you excited about in 2022? Lets get them adde…
+"RT @ethdotorg: https://t.co/v9gxnMUQFz is hiring a Product Designer!
+
+Do you want to
+* own the full design lifecycle of our web products?
+*…"
+"RT @AyaMiyagotchi: 1/ The #Ethereum community can have a positive role in providing the right resources to policymakers and governments.
+
+T…"
+"RT @dannyryan: The EF is hiring a Research Engineer!
+
+Do you love to
+* Build networking tools
+* Read the latest on https://t.co/FERY2MrYDu…"
+RT @solidity_lang: It's almost time for our 3rd AMA! 🧑‍💻👨‍💻👩‍💻 If you have a question for the Solidity team, feel free to add it to the for…
+RT @zeitgeist_xyz: We're excited to share an update on Zeitgeist - a small group of early-stage teams working on crypto-native products/pro…
+"RT @WeekInEthNews: ⟠ Latest Week in Ethereum News!
+
+🗺️ @trent_vanepps updated Ethereum roadmap
+2️⃣ @l2beatcom $5 billion locked in Layer2
+🎶…"
+"RT @TimBeiko: Wrapped up @ethereum #AllCoreDevs no. 127 this AM (now at 6am for me 😴, thanks DST!)
+
+Agenda: https://t.co/VAw7mcZ3rd
+Stream:…"
+"RT @0xPARC: (1/n) 0xPARC: Applied ZK Learning Group
+
+Developers from Ethereum Foundation and 0xPARC are facilitating a small ""applied ZK le…"
+"RT @TimBeiko: 🏹🏔 Arrow Glacier is coming 🏔🏹
+
+The upgrade will go live on block 13,773,000, around December 8th. Only change is pushing back…"
+RT @solidity_lang: Solidity 0.8.10 is out! 🥳 v0.8.10 contains external function call optimizations, enables the new EVM code generator for…
+"RT @EF_ESP: Our Q2 allocation update is out 🎉https://t.co/q4XGGeYd2O 
+
+In Q2 we awarded a total of ~7.8m to #Ethereum superstars including…"
+"RT @tinchoabbate: The MOST vulnerable contracts in all DeFi just got upgraded!
+
+⚙️ New testing env: Solidity 0.8 + Hardhat + Ethers
+🌟 4 new…"
+"RT @dannyryan: Finalized no. 31
+Attacks, mitigations, and timelines
+
+tl;dr -- serious attacks, a simple fix, and no Merge delays
+
+https://t…"
+RT @dankrad: $172k in new bounties for breaking ZK-friendly hash functions! Rescue Prime, Feistel-MiMC, Poseidon and Reinforced concrete: h…
+RT @alexberegszaszi: Ethereum's @solidity_lang is a relatively new language, but the team behind it puts strong emphasis on clarity and sec…
+"RT @WeekInEthNews: ⟠ Latest Week in Ethereum News!
+
+🌟 Beacon chain upgraded to Altair
+🇨🇴 @EFDevcon Bogota in Q3 2022
+🔥 Eth negative issuanc…"
+RT @ErigonEth: Announcing Erigon 1 Beta program. This will be a living document and may contain some typos and omissions, and more info mig…
+RT @0xPARC: We're excited to announce 0xPARC: Program for Applied Research in Cryptography. (1/n)
+"RT @NomicLabs: Slang + Rethnet: Our long-term plan to unleash Ethereum's developer experience potential
+
+https://t.co/AQ2LcbP614"
+RT @ralexstokes: the altair hardfork has successfully happened! congrats to everyone involved!
+RT @LefterisJP: Welcome to epoch 74240 and Altair, the new #ethereum beacon chain hard fork. https://t.co/gQX22J43Pr
+RT @TimBeiko: A bit later than I would have wanted it (hi Altair!), but here's another #AllCoreDevs update, which covers the Ice Age pushba…
+"RT @dannyryan: 37 hours until the Altair beacon chain upgrade 💫 
+
+Take part in the fun
+Do not leave your node behind
+Upgrade now, why wait"
+"RT @unvetica: The @ethereum ""Altair"" Network Upgrade  is fast approaching - have you upgraded your node? 
+
+🏅 - Spread the word &amp; claim your…"
+"RT @icebearhww: Keep calm and upgrade your client to beacon chain Altair HF compatible version ASAP!🦅
+
+Please ensure the version of your be…"
+"RT @WeekInEthNews: ⟠ Latest Week in Ethereum News!
+
+🌟 @dannyryan Update your nodes before Altair upgrade on Oct 27
+💿 @PleasrDAO buys @WuTan…"
+"RT @dannyryan: Lazy sunday...
+
+Perfect time to provision your node for **this week's** Altair upgrade
+
+There's no POAP for being last."
+"RT @benjaminion_xyz: Hey folks, it's the ""upgrade your client right now"" edition of What's New in #Eth2!
+
+ - Altair 🌟
+ - The Merge 🐼
+ - Pit…"
+RT @EF_ESP: September Grantee Roundup is out! Featuring @cadCAD_Edu and https://t.co/wxzNvGUmTl: https://t.co/xYO0DskOg6
+RT @AyaMiyagotchi: Here is the video of my AMA at #ETHOnline. I touched on the EF/Ethereum vision, the past 3 years, what I wanted to achie…
+RT @AyaMiyagotchi: @UNICEF's CryptoFund has our ongoing support as (1) a great example of how public sectors benefit from efficiency and tr…
+RT @EF_ESP: Headed to @0xliscon?? Grantee popups at the EF booth: @ethStaker from 10am-12pm and @nethermindeth from 1-3pm. Stop by, say hi…
+"RT @SomerEsat: 🚨 Eth Stakers: Don't forget to update your staking client! Otherwise you will get inactivity penalties. 
+
+Update no later th…"
+"RT @dannyryan: Finalized no. 30
+
+https://t.co/wtoh06KS2H
+
+🚨Altair is fast approaching. Upgrade your nodes! 🚨
+
+                       🚨🚨🚨Now…"
+RT @UNICEFinnovate: The @UNICEF CryptoFund, launched in 2019, is the first financial vehicle within the @UN that allows UNICEF to receive,…
+"RT @WeekInEthNews: ⟠ Latest Week in Ethereum News!
+
+🎨 @coinbase NFT late 2021
+2️⃣ @zksync Uniswap v2 fork demo on zkEVM testnet
+🕸️ @Replit…"
+"RT @ChainSafeth: Introducing our new project update series ""A #Lodestar for Ethereum Consensus"" 🌟
+
+The aim is to provide periodic updates o…"
+RT @TimBeiko: Fresh off the press: here's a recap of the #amphora interop event 🏺 highlighting the next steps to The Merge, with links to d…
+"RT @parithosh_j: The new merge testnet Pithos is now live! 
+
+Explorer: https://t.co/anbtFihw0M
+Instructions to join: https://t.co/rhfs0ElG9U"
+"RT @Replit: Announcing: Replit + Solidity
+- No setup multiplayer environment
+- Live contract coding
+- Built-in testnet
+- Shareable dApps an…"
+"RT @WeekInEthNews: ⟠ Latest Week in Ethereum News!
+
+🐼 PoW switch off forever devnet
+🤖 Flashbots Protect API &amp; RPC
+🖼️ @ensdomains profile NF…"
+"RT @ETHGlobal: Join us for the #ETHOnline Finale + Merge &amp; Scalability Summit—Friday, Oct. 15th 
+
+Catch talks from Marius van der Wijden (@…"
+"RT @benjaminion_xyz: What's new in #Eth2? Just a little 😉
+
+A brief third-anniversary edition for you this week,
+ - Altair is imminent
+ - Ro…"
+RT @sigp_io: This week, #Ethereum researchers and core developers met in person to work on the transition to Proof-of-Stake. This upgrade,…
+RT @benjaminion_xyz: Ethereum 2.0 merge Interop devnet confirmed. Let's go! 🚀 https://t.co/8vrpmOHYIl
+RT @superphiz: .@Ethstaker along with the Ethereum Foundation developed a survey to understand the needs of stakers. Don't worry about ente…
+RT @wolovim: stateless ethereum / the portal network is one of the research efforts i'm most excited by: clients light enough to run in a b…
+"RT @vdWijden: Alpha leak: Don't buy any more mining hardware #ethereum #merge
+
+Left: Geth running post-merge
+Top Right: Lighthouse beacon n…"
+"RT @dannyryan: Altair Mainnet launch at epoch 74240 (Oct 27, 2021, 10:56:23am UTC)!
+
+https://t.co/fTxZBLQqJ5
+
+Upgrade your nodes!
+
+Now, onw…"
+RT @ethdotorg: We've rethought how we translate content, allowing us to translate https://t.co/v9gxnMUQFz into more languages quicker than…
+RT @jcksie: Merge event, day 1: @ethnimbus and @nethermindeth does #themerge transition! https://t.co/eyRlygTMbV
+"RT @WeekInEthNews: ⟠ Latest Week in Ethereum News!
+
+🕺 @tiktok_us Top Moments NFTs on @Immutable
+🏦 @SocieteGenerale proposal to refinance bo…"
+"RT @TimBeiko: Another @ethereum #AllCoreDevs today ✅
+
+Agenda: https://t.co/0uMg8aET1T
+Stream (only ~40 mins!): https://t.co/27NUwUw9JX 
+
+Re…"
+RT @ethdotorg: In order to get more eyes on the changes coming in the Altair upgrade, all bounties for vulnerabilities related to Altair wi…
+"RT @dankrad: What are proofs of custody -- and how are they different from data availability checks? Do we actually need both?
+
+New explain…"
+RT @taurus_hq: The @Ethereum Foundation selected Taurus to lead a security review of beacon clients (Lighthouse, Nimbus, Prysm, Teku), join…
+"RT @ChainSafeth: ChainSafe has completed https://t.co/RLk31IuKbr in collaboration with the @Ethereum Foundation ✨
+
+Use our new node explore…"
+"RT @dannyryan: Finalized no. 29
+https://t.co/ssVYW3M8d7
+
+Altair is here; the Merge is coming.
+
+tl;dr below"
+RT @solidity_lang: Solidity 0.8.8 is here! 🎉 v0.8.8 brings you user defined value types as a major feature. It also improves overriding int…
+"RT @WeekInEthNews: ⟠ Latest Week in Ethereum News!
+
+⭐ Beacon chain Altair upgrade Oct 27
+🌿 @SnoopDogg's alt NFT account
+🐦 @Twitter tip jar…"
+"RT @austingriffith: 🎞 1 hour Ethereum onboarding for developers!!!
+
+⌚️ 30m if you watch it on 2x 😅
+
+🚀 Get started today!!!
+
+https://t.co/9S…"
+"RT @benjaminion_xyz: 📣 Read all about it! Altair upgrade at 74240! 📣
+
+https://t.co/97X85jdCzM
+
+What's new in #Eth2:
+ - Altair good to go 🚀…"
+RT @EF_ESP: Check out our latest roundup, featuring grantees @imapp_pl and @stereumdev: https://t.co/j58hyyABoT
+RT @EF_ESP: ESP is hiring a Team Lead! We're looking for someone organized, innovative, and passionate about #Ethereum. If you think you mi…
+"RT @sinahab: New podcast episode:
+
+This is a conversation with @dannyryan and @TimBeiko about the future of the Ethereum protocol.
+
+We go d…"
+"RT @WeekInEthNews: ⟠ Latest Week in Ethereum News!
+
+2️⃣ @Arbitrum $2.6 billion TVL
+🏗️ @optimismPBC EVM equivalence in October
+💯 Vitalik Tim…"
+"RT @TimBeiko: We wrapped up another @ethereum #AllCoreDevs this AM 🛠
+
+Agenda: https://t.co/5JV0LtRQA4
+Stream: https://t.co/6niS3lWX9n 
+
+Rec…"
+RT @liamihorne: More than 1000 hackers from around the world are staked and beginning to hack today at ETHOnline! https://t.co/o4iYi60who
+RT @ETHGlobal: We're days away from #ETHOnline—the biggest Ethereum event of the year! It's a hackathon with multiple single-day conference…
+"RT @ensdomains: We're pleased to announce we've chosen SpruceID to lead the effort to standardize Sign-in with Ethereum!
+
+Standardizing wha…"
+"RT @sinahab: Hey everyone, I'm starting a podcast!
+
+I'll be hosting conversations around the ideas shaping crypto.
+
+The first episode is wi…"
+"Last call(!) to apply for the second cohort of the Core Dev Apprenticeship Program.
+
+See @pipermerriam's full post for more: https://t.co/N0aS9RScm3
+
+Deadline: Sept. 13 (today!) https://t.co/QZD29fat4g"
+RT @0xstark: ⏰ attn. future core devs - deadline to apply is Monday! https://t.co/XuRjWhhw7h
+RT @ethdotorg: https://t.co/v9gxnMUQFz has added a new page explaining #Ethereum governance. Retweet if you'd like more people to understan…
+"RT @WeekInEthNews: ⟠ Latest Week in Ethereum News!
+
+🧑‍🎓 Apply for Core Devs apprentice program
+💸 Compare L2 Fees ~ @dmihal
+⚽ @SorareHQ adds…"
+RT @defidude: Gentle reminder that @mysticryuujin and I operate https://t.co/kVOEFDZ6Jd - if you're an Ethereum developer and could benefit…
+"RT @benjaminion_xyz: It's that What's New in Eth2 time of the week again 🎉
+
+This one has a 🐼 in it!
+
+ - Latest on Altair and The Merge
+ - A…"
+"RT @asanso: Secured no. 1: ""Protecting the #Ethereum consensus-layer"" https://t.co/EDhsDTmfHh https://t.co/OSmzI0QlgO"
+RT @EFDevcon: 1/ Missing Devcon? We can't wait to *finally* see you in 2022, but we're thrilled that the ecosystem is reuniting in person &amp;…
+RT @cadCAD_Edu: Here it is! Enjoy the (free) @ethereum cadCAD Masterclass, teaching how to model Ethereum's validator economics, using the…
+"RT @JBSchweitzer: 1/ New from @pipermerriam: Core Dev Apprenticeship Program - The Second Cohort 🧑‍💻
+
+Apply today, and get engaged with #Et…"
+"RT @WeekInEthNews: ⟠ Latest Week in Ethereum News!
+
+🚀 @Arbitrum public launch
+🔥 Full day of $ETH negative issuance
+🦊 @MetaMask 10 million M…"
+"RT @ethnimbus: The importance of client diversity in the run up to the merge
+https://t.co/nBHQ1SJcn8"
+"RT @TimBeiko: Fresh off the press, another @Ethereum #AllCoreDevs update. It's not really an ""update"", though, but a deep dive into the evo…"
+"RT @trent_vanepps: AMA with the @arbitrum team happening on r/ethereum right now! 👀
+
+https://t.co/rAB11DFlqu"
+"RT @terencechain: Prater has successfully upgraded to Altair 🎉
+
+It was a successful upgrade, and client teams still have to iron out a few…"
+RT @superphiz: Congratulations to @worthalter for developing the @poapxyz platform to reach SO many people and make sticker collecting a fu…
+"RT @MartinLundfall: We have just published the first release of the Act specification language!
+
+Act specs are a high level description of…"
+"RT @arbitrum: WE KNOW YOU'VE BEEN WAITING...
+
+WE'RE PROUD TO ANNOUNCE...
+
+📘ARBITRUM ONE📘
+
+BRIEF YOURSELF BELOW 👇, WE'LL SEE YOU IN L2.
+http…"
+"RT @ETHGlobal: If you thought HackMoney was big... 
+
+What if we told you we were going bigger? 🤑
+
+Don't miss #ETHOnline--our biggest event…"
+"RT @WeekInEthNews: ⟠ Latest Week in Ethereum News!
+
+🔥 100,000 ETH burnt with EIP1559
+🧷 @Visa buys Cryptopunk
+📛 Import any domain to @ensdom…"
+"RT @benjaminion_xyz: Yo! It's that What's New in Eth2 time of the week again 😻
+
+Head over to https://t.co/LeRPRKqW1h for all the latest on:…"
+"RT @drakefjustin: MEV research breakthrough
+
+→ MEV smoothing for consensus stability
+→ trustless MEV oracles
+→ potential for MEV burn (beyo…"
+"RT @dannyryan: Finalized no. 28 -- The Road to Altair edition 🛣⭐️
+https://t.co/lKkD2cEQeP
+
+tl;dr below"
+"2/ Recipients of this round are @ErigonEth, @ethnimbus, @go_ethereum, #HyperledgerBesu and @nethermindeth.
+
+It takes a united effort to maintain quality open source products in a diverse, decentralized, and sustainable way. 
+
+For more, see the full post:
+
+https://t.co/VgExSp8IUe"
+"1/ A diverse execution-layer client ecosystem is at the heart of all that we’re building together.
+
+Today, we're excited to announce that @compoundgrants, @krakenfx, @LidoFinance, @synthetix_io, @graphprotocol &amp; @Uniswap are donating $250K each to support #Ethereum client teams."
+"RT @go_ethereum: Heads up!
+
+Geth v1.10.8 is out, fixing a security vulnerability in all live versions of Geth. All Geth users need to updat…"
+"RT @WeekInEthNews: ⟠ Latest Week in Ethereum News!
+
+2️⃣ @optimismPBC onboarding developers
+📊 US CFTC - ETH a non-security commodity
+🗳️ @Ope…"
+RT @protolambda: Pyrmont testnet upgrade to Altair complete! 🎉 #eth2 https://t.co/6oEvlRpl9a
+"RT @Austen: 🚨🚨🚨
+
+Have been waiting to be able to publicly talk about this for a while now:
+
+Lambda School is developing a blockchain course…"
+RT @go_ethereum: PSA: On Tuesday Aug 24th, Geth will issue a hotfix to a high severity security issue. Please make any necessary preparatio…
+"RT @ChainSafeth: ChainSafe's #Lodestar team has released its official light client prototype!
+
+Cutting bandwidth &amp; processing load by ~99%…"
+RT @EF_ESP: We're extending the application window for Road to #Devcon meetup and event grants! If you missed the deadline last week, you n…
+"RT @dannyryan: The Altair fork of the Pyrmont beacon chain testnet is in less than 48 hours
+
+Reminder! After the Altair fork along with som…"
+"RT @WeekInEthNews: ⟠ Latest Week in Ethereum News!
+
+2️⃣ ~17% of transactions are Type 2 (EIP1559) and growing
+🔐 @0xPolygon buys @hermez_net…"
+"RT @benjaminion_xyz: Edition 75 of What's New in Eth2 just dropped at https://t.co/97X85jdCzM 🔥
+
+As well as the usual updates, we talk clie…"
+"RT @ralexstokes: some brief notes on immediate next steps re: beacon chain light clients
+
+feedback/thoughts welcome/encouraged :)
+
+https://…"
+"EF-supported projects and teams are always working to improve our #Ethereum experience. 
+
+Here's the latest in a roundup series that highlights their efforts to grow and improve the network. Enjoy!
+
+https://t.co/9DL6Dest31"
+"RT @solidity_lang: Solidity 0.8.7 has just been released! 🆙 v0.8.7 introduces support for the London upgrade, includes
+various improvements…"
+"RT @EFDevcon: Last chance to apply for the Road to #Devcon grants round! 
+
+Organizers of small #Ethereum events and meetups, apply here by…"
+"RT @WeekInEthNews: ⟠ Latest Week in Ethereum News!
+
+🇬🇧 London upgrade live with over 15k $ETH burned
+🅰️ @arbitrum launching in weeks
+👛 @Lou…"
+"RT @fightfortheftr: 🚨 #Cryptocurency Red Alert 🚨
+
+There is a #Crypto provision hidden in a must-pass bill that will allow mass-surveillance…"
+"RT @TimBeiko: We our first post-London @ethereum #AlllCoreDevs today 🇬🇧
+
+Agenda: https://t.co/yqrg8DahBS
+Stream: https://t.co/ZDXJzrUfMs
+
+R…"
+"RT @EF_ESP: Check out our latest grantee roundup: https://t.co/PgtLSp0aRj
+This month features InterRep with contributions from @arcalinea a…"
+RT @AyaMiyagotchi: Congratulations to #Ethereum for another big “Kaizen” by working together! Great job @TimBeiko coordinating and everyone…
+"RT @terencechain: London is here! heart felt thank you to everyone that made this happen!
+
+Next stop! Altair(eth2)🌠, then Merge(eth1+eth2)🌲"
+"RT @ethStaker: We're about 10 minutes away from starting the London Network Upgrade Livestream Party! 
+
+It's not too late to hang out! Join…"
+"RT @barnabemonnot: EIP-1559 is going live today! I am very excited to see all the work that went into it come alive 😀
+
+And among all the ex…"
+"RT @TimBeiko: 🇬🇧⛏ London Mining Misconceptions Thread ⛏🇬🇧
+
+Over the past day or so, I've received a bunch of questions/seen concerns about…"
+"RT @dannyryan: All Ethereum (eth2) validators *must* upgrade their PoW (eth1) nodes to keep performing all of their duties!
+
+If you haven't…"
+"RT @WeekInEthNews: ⟠ Latest Week in Ethereum News!
+
+🎂 Ethereum's 6th Birthday
+🌲 Merged EIP3675 Upgrade to Proof-of-Stake
+🌟 Lodestar consens…"
+"RT @benjaminion_xyz: Bumper #Ethereum 🎂 edition of What's New in Eth2 for you!
+
+ - EIP-3675 and The Merge
+ - Altair
+ - Stakehouse
+ - Lido…"
+"RT @austingriffith: 🏃‍♀️Ethereum Dev Speed Run
+(🙇 a quick start for developers)
+
+https://t.co/VIU4Lhc1yN
+
+📃 This is my quick sharable list…"
+"RT @RyanSAdams: Happy 6th birthday Ethereum.🎂
+
+- $273 billion valuation
+- 1.2 billion transactions
+- 164 million addresses
+
+You've grown up…"
+"RT @gregthegreek: 👀 In case you missed it 👀
+
+🚀 @ChainSafeth's Lodestar is VALIDATING on mainnet 🌟
+
+🔥 We're running a full Lodestar setup (B…"
+"RT @TimBeiko: AllCoreDevs Update 005 just out 👀 
+
+TL;DR below 👇🏻
+
+https://t.co/UKU4ELVniY"
+"RT @ensdomains: We've decided to extend the deadline by two weeks, through August 13th.
+
+If you were thinking of submitting, or thought you…"
+RT @EthereumOnARM: Full validation #ethereum node synced (pruned mode) running @ErigonEth in a @Raspberry_Pi  4. I guess this is game over…
+"RT @JBSchweitzer: Finalized No. 27 -- by @dannyryan  
+
+Update your nodes(!), and more upgrades coming!
+https://t.co/KBJWiNRj9o
+
+tl;dr below…"
+"RT @WeekInEthNews: ⟠ Latest Week in Ethereum News!
+
+🇬🇧 Update clients for London consensus issue
+🌱 EIP3675: Upgrade to Proof-of-Stake
+🏆 @Re…"
+"#Ethereum is the Infinite Garden - @AyaMiyagotchi at @EthCC 
+
+https://t.co/gBywZnggHm"
+RT @dannyryan: 👀https://t.co/Wem68y49sW👀
+"RT @0xRajeev: Thrilled to announce the launch of @TheSecureum Bootcamp for Smart Contract Security Auditing!
+
+Funded by @ethereum Foundatio…"
+"RT @TimBeiko: Summary of the #AllCoreDevs call from this AM coming! 
+
+Agenda: https://t.co/0ggWAjfezK
+Stream: https://t.co/73I6OzINhh https…"
+"RT @WeekInEthNews: ⟠ Latest Week in Ethereum News!
+
+🦄 @optimismPBC live with @Uniswap V3
+🦇 @ultrasoundmoney estimate peak ETH supply
+🎥 @Eth…"
+"RT @benjaminion_xyz: 📰 The latest #Ethereum 2.0 news 📰
+
+Find out what's new in Eth2 at https://t.co/LeRPRKqW1h!
+
+Altair progress, explainer…"
+"RT @trent_vanepps: A new graphic for Ethereum's Upgrade Path: leading to the Merge and beyond 👩‍🚀
+
+⛏️  Proof Of Work  ❌
+🌿  Proof of Stake…"
+RT @EthereumFilm: It’s exciting to document @Ethereum as it not only powers innovative decentralized applications but simultaneously pushes…
+RT @EFDevcon: Community organizers help to hold the #Ethereum ecosystem together, and we're not all able to return to far-off events yet.…
+"The next #Ethereum network upgrade, London, is coming. 
+
+Learn more about EIP-1559 and other changes, and get ready by upgrading those nodes! 🦄
+
+https://t.co/90coW9QMHP"
+RT @ensdomains: Pleased to announce that ENS &amp; the Ethereum Foundation (@ethereum) are co-sponsoring a grant and RFP to support standardizi…
+"RT @WeekInEthNews: ⟠ Latest Week in Ethereum News!
+
+🇬🇧 London upgrade (EIP1559) August 4
+✅ Checklist to turn off Proof of Work
+⚔️ @syntheti…"
+"RT @TimBeiko: We just wrapped up another @ethereum #AllCoreDevs 🤝
+
+Agenda: https://t.co/0OjvtptgDk
+Stream: https://t.co/fQWe6TGsDC 
+
+Recap…"
+"RT @EFDevcon: Join us this Saturday @ 1800 UTC for #RoadToDevcon Quest #3: 
+
+Trivia w/ @ethStaker, open for all to play!
+
+Show off your kno…"
+"RT @the_ethernaut: I was totally overwhelmed with hundreds of messages yesterday 🤯
+
+(Sorry if I haven’t replied)
+
+I think we need to take t…"
+"RT @WeekInEthNews: ⟠ Latest Week in Ethereum News!
+
+🇬🇧 EIP1559 closer with London upgrade of Goerli testnet
+🐤 @Twitter created 140 NFTs on…"
+"RT @benjaminion_xyz: What's New in #Ethereum 2?
+
+Find all the freshest news here: https://t.co/97X85jdCzM 📰
+
+In this one, I explain why I a…"
+"RT @EF_ESP: We just posted our Q1 Allocation Update - head to our blog to meet this latest batch of #Ethereum grantees!
+
+https://t.co/xEDuS…"
+RT @dankrad: The nice thing about this curve is that it's dual purpose: You can use it to make Inner Product Arguments (like the ones neede…
+"RT @leonardoalt: https://t.co/tC5MmNNc5S
+
+The EF's Formal Verification and Applied ZKP teams are together looking for someone to work on FV…"
+"RT @EF_ESP: Hey #Ethereum builders, come chat with us! ESP office hours signups are open through this Sunday, July 4.
+
+https://t.co/TQVg27z…"
+"RT @WeekInEthNews: ⟠ Latest Week in Ethereum News!
+
+🇬🇧 Ropsten testnet upgraded to London
+🔦 5% of ETH supply staked for Beacon chain
+🖼️ Red…"
+RT @EthereumOnARM: Some tips if you want to migrate your #ethereum 2 client to a different one. But before that, a shout out  to the @sigp_…
+"Starting now: Join the EF's Research Team for an AMA on @reddit. See you there! 👇
+
+https://t.co/u0s0kAp230 https://t.co/nSggRIwNIm"
+"RT @TimBeiko: And here it is, at 1127 words: AllCoreDevs Update 004
+https://t.co/d4EDlDRulZ 😄
+
+Things you should know about London activati…"
+"Have questions about the beacon chain, Altair, ""The Merge"" and beyond? 
+
+In 24 hours, the EF's research team takes part in their 6th AMA. See you there!
+
+https://t.co/u0s0kAp230 https://t.co/nSggRIwNIm"
+"RT @c_spelliscy: Call for everyone working on/interested in DAOs 🤝: 
+
+Collaborate with leaders in crypto at the virtual DAO Summit on June…"
+"RT @WeekInEthNews: ⟠ Latest Week in Ethereum News!
+
+🔥 Watch the EIP1559 burn
+🗺️ Vitalik’s state expiry and statelessness roadmap
+⏩ Geth ~7…"
+"RT @benjaminion_xyz: What's New in Eth2?
+
+A relatively brief #Ethereum 2.0 update for you this week: https://t.co/97X85jdCzM
+
+I think every…"
+"RT @TimBeiko: London is now finally ready to hit testnets 🇬🇧🎉
+
+Next week, Ropsten, will upgrade, followed by Goerli &amp; Rinkeby the weeks aft…"
+"RT @HardhatHQ: Hardhat 2.4.0 is out!
+
+https://t.co/6iO1ztKKb3"
+"RT @nethermindeth: 👋Nethermind version v1.10.73 is out❗️
+
+Nethermind release that gets us closer to London 🇬🇧: 
+✅including all consensus Lo…"
+RT @go_ethereum: Geth v1.10.4 (Voyager Cluster) just out! London hard-fork enabled for all testnets, with Ropsten switching over in 1 week,…
+RT @alexandravbotez: Launched my FIRST EVER podcast @ByteSizedEth to make learning about Ethereum accessible for everyone, regardless of te…
+"RT @ETHGlobal: Today's the day! Don't miss your chance to apply to #HackMoney2021 and hack for over $200k in prizes
+
+Sign up here: https://…"
+"RT @official_fe: Say hello to our brand new Fe website! 😍
+
+Big thanks to @PascalPrecht who designed and helped us to create it  🙏 https://t…"
+"RT @WeekInEthNews: ⟠ Latest Week in Ethereum News!
+
+✏️ Sign-In with Ethereum: future of login for the web
+🐕 Doge meme NFT sold for 1,696.9…"
+RT @solidity_lang: Solidity 0.8.5 is out! 🆕🎉 v0.8.5 allows conversions from ``bytes`` to ``bytesNN`` values, adds the ``verbatim`` builtin…
+"RT @TimBeiko: We just wrapped up @ethereum #AllCoreDevs 😁
+
+Agenda: https://t.co/GC9Gtw0VW4
+Stream: https://t.co/FfPvmHUyI4
+
+Recap below 👇🏻…"
+RT @sassal0x: Ethereum is a decentralized, censorship-resistant and permissionless network that enables true financial freedom for the worl…
+"RT @EthCatHerders: ⭐️ London Upgrade Overview ⭐️
+A description of the EIPs included in London 
+https://t.co/L834r3wap4
+#Ethereum #upgrade #…"
+RT @UNICEFinnovate: @UNICEF welcomes 7 companies developing open-source #blockchain-based solutions that aim to expand financial inclusion,…
+"RT @0xMidnight: Just hit one million builders at https://t.co/yiIjq4ZwRb !
+
+🥳🎉🍾🥂 https://t.co/zuGN2Y0oL8"
+RT @dabit3: I went from zero to building full stack apps with Solidity, React, &amp; Ethereum in a couple of months to prepare for my role at @…
+"RT @WeekInEthNews: ⟠ Latest Week in Ethereum News!
+
+🎉 6 months of Beacon Chain
+🦄 @Uniswap V3 live on @arbitrum
+🤐 @UmbraCash stealth address…"
+"RT @poojaranjan19: @VitalikButerin @dannyryan @EthCatHerders ☀ Altair: Beacon chain upgrade ☀
+@dannyryan &amp; @VitalikButerin shared the detai…"
+RT @ETHGlobal: It's looking like it'll be another #DeFi summer! Join us for #HackMoney2021 from June 18th - July 9th and build the future o…
+"RT @benjaminion_xyz: 🎈✨🎈✨
+
+It's that What's New in Eth2 time of the week again! 
+
+Catch up with the Beacon Chain at six months old, and all…"
+"RT @tinchoabbate: So you want to have your smart contracts audited ?
+
+These are some tips &amp; tricks that'll make auditors love you from day…"
+RT @gballet: Proof of concept: geth using verkle trees https://t.co/er0HgyGJNM
+RT @ErigonEth: We are thrilled about the announcement of @gnosisPM /@OpenEthereumOrg joining us in the development of @ErigonEth, we warmly…
+RT @asanso: Dear bug bounty hunters do not forget the Eth2 bug bounties program https://t.co/EM5ySQLkfb Looking forward some of your great…
+RT @bantg: Erigon is sooo good. Can you imagine scanning traces from the entire history of Ethereum in under 5 seconds? It can do that. htt…
+RT @EF_ESP: Our May Roundup features @opengsn's recent v2 release and @ksaitor's Quadratic Dollar Homepage: https://t.co/KIp89WG3qt
+RT @etherisc: View our short documentary of our work with @acreafrica ! https://t.co/1mehIBJh8n See the BIMA PIMA insurance product explain…
+"RT @arbitrum: Introducing Arbitrum One, our mainnet beta: live on Ethereum and open to developers now!
+
+https://t.co/3Jca2dZw0D"
+"RT @EFJavaScript: Aaaaaand...
+1559/London EthereumJS releases are out! 🥳 🦀 🌻
+(you can take your time with the 15.000 likes)*
+
+https://t.co/…"
+RT @EzraNBC: Curious about proof of stake versus proof of work and whether cryptocurrency can be more energy efficient? Here is my explaine…
+RT @EFDevcon: Whether you’re artsy 🎨 or not — come join us *tomorrow* Saturday @ 6pm UTC for a fun Painting Party Quest event with @ethStak…
+RT @AyaMiyagotchi: 「イーサリアムが解決する世界課題」日本語で話したものです。20分程ですが具体例も話しています。https://t.co/C0qvVNczA4
+RT @stonecoldpat0: There are misconceptions on the security models for locking funds in one blockchain and representing funds in another bl…
+"RT @ErigonEth: Turbo-Geth is changing name to Erigon
+Alexey Akhunov @realLedgerwatch , May 17, 2021 (from https://t.co/kRp3SkPv2r)
+
+1/n Whe…"
+"RT @dannyryan: Finalized no. 26 -- Steady progress on all fronts!
+https://t.co/WpJAquiPrh
+
+tl;dr below"
+"RT @WeekInEthNews: ⟠ Latest Week in Ethereum News!
+
+🌲 PoS 99.95% less electricity than PoW
+🍺 @Birra_Peroni supply chain on $ETH mainnet
+😱 C…"
+"RT @benjaminion_xyz: What's New in [the protocol formerly known as] Eth2? 🤔
+
+The very latest on
+  - Altair
+  - Rayonism
+  - The Merge
+  - S…"
+RT @ricmoo: I’ve just released @ethersproject v5.2.0, for all your custom-solidity-error and replaced-transaction-course-correcting needs.…
+"RT @AyaMiyagotchi: ""Who the hell needs GSN?"" in the blog shows realistic existing challenges for next billion users https://t.co/YWBAA731jm"
+RT @austingriffith: 👨‍🏫 Try throwing this 🏗 scaffold-eth onboarding video to a random developer you know and see if it sticks: https://t.co…
+RT @mhswende: A disclosure about the #Ethereum state problems, which we've been working on fixing for the past two years: https://t.co/GQBh…
+"RT @CarlBeek: By my (very conservative) calculations, Ethereum will see a greater than ~99.95% reduction in energy use post merge.
+
+Dig int…"
+"RT @TimBeiko: The latest #AllCoreDevs update is up 😁
+
+We're launching an apprenticeship program 🛠, more RFPs 💰, have Baikal ready to test L…"
+"RT @WeekInEthNews: ⟠ Latest Week in Ethereum News!
+
+🌳 Successful testnet launch to turn off PoW
+🗞️ Optimistic rollup @arbitrum to launch Ma…"
+"RT @ETHGlobal: We're thrilled to announce our next weekend hackathon in partnership with @protocollabs 🎉
+
+Web3 Weekend, happening May 28 -…"
+"RT @trent_vanepps: 1/🌈 Announcing a Core Dev Apprenticeship Program!! 🌈
+
+- pilot project to get MOAR people engaged with @ethereum protocol…"
+RT @arbitrum: Arbitrum mainnet opens to developers May 28. Join the initial cohort! https://t.co/mL8CcMYE61
+"RT @terencechain: Merge devnet #2 “Nocturne” finalized! 🎉
+
+Proof-of-stake Ethereum can’t come soon enough! 
+
+Impressive accomplishment in s…"
+"RT @krzKaczor: TypeChain v5 is finally here!🔥
+
+👉Incremental generation and typed getContractFactory (!) with @HardhatHQ 
+👉No more index sig…"
+RT @_SamWilsn_: Inspired by the @paradigm_ctf competition, @lightclients  and I have been putting together some tooling we wish we had at t…
+"RT @benjaminion_xyz: Your favourite fortnightly #Eth2 update is ready: https://t.co/97X85jdCzM
+
+The latest on Rayonism, Altair, The Merge -…"
+"RT @austingriffith: 👨‍💻 Hung out with @dabit3 to talk about how a web2 developer can learn how to build on Ethereum:
+https://t.co/z7HQl97ME3"
+"Ethereum for the Next Billion: Today, @AyaMiyagotchi unveils the new EF Fellowship Program, and discusses the Foundation's role and a vision for #Ethereum's long-term sustainability in a decentralized world.
+
+Read more: https://t.co/BNnAdH7erH"
+"RT @vdWijden: FuzzyVM [fuzz​ɛvm] is here! 
+A new differential fuzzing framework for EVM (Ethereum Virtual Machine) implementation that foun…"
+RT @peter_szilagyi: Geth v1.10.3 is out, and snap sync packs a serious punch! Possibly our last release where `--syncmode=snap` is *not* th…
+"RT @WeekInEthNews: ⟠ Latest Week in Ethereum News!
+
+🇪🇺 @eib primary issuance of 100m euro bond
+🌲 Ethereum proof of stake is green
+⛏️ Miners…"
+"RT @EF_ESP: April roundup is out, featuring @Devfolioco/@ETHIndiaco and @web3labs!
+https://t.co/I6orib1u2i"
+RT @sigp_io: In the aftermath of mainnet's first hiccup, @sproulM_ makes a case for why Lighthouse should be the client of choice for #Ethe…
+"RT @EthereumOnARM: Great article by @ethnimbus about energy consumption. 
+
+https://t.co/Otbk2eixE4"
+"RT @trent_vanepps: 1/ Announcing a new project, working title ""Ecosystem Readiness"" 🛠️ (working with @TimBeiko + ACD)
+
+🏆 Goal: get Ethereum…"
+"RT @trent_vanepps: To all Ethereum miners: plan conservatively for an end to mining EOY 2021.
+
+Please help us relay this info: @etherchain_…"
+RT @sassal0x: The core Ethereum protocol undergoes major network upgrades from time to time and many of these upgrades are actually in the…
+"RT @WeekInEthNews: ⟠ Latest Week in Ethereum News!
+
+🥩 Staking hiccups show necessity of client diversity
+🔟 Turn off PoW by October?
+⛽️ Gas…"
+"As many EF-supported projects and teams continue to grow and to improve #Ethereum, there’s lots to share since the last 2020 edition in this series, which followed the launch of the beacon chain. 
+
+For the latest, see below and enjoy!
+
+https://t.co/KUxBu90Ztj"
+"RT @drakefjustin: Want proof-of-work removed ASAP? 🌱
+Want a high staking APR sooner? 🤑
+
+👉 stake with Lighthouse, Nimbus, or Teku 👈"
+"RT @dannyryan: ""It is time for everybody to take client diversity seriously.""
+
+Strongly agree with @benjaminion_xyz
+
+There are 4 excellent…"
+"RT @yulesa: THE MERGE:
+
+1/21 Ethereum is about to get a series of enhancements that will differentiate it from other blockchains, especiall…"
+"RT @TimBeiko: Another #AllCoreDevs update straight off the press 📖
+
+TL;DR: Berlin is live 🇩🇪, London's first devnet is up 🇬🇧, Rayonism is o…"
+"RT @WeekInEthNews: ⟠ Latest Week in Ethereum News!
+
+🇩🇪 Berlin fork upgrade is live!
+🤖 @phildaian the Flashbots &amp; MEV issue
+😲 @CryptoHayes t…"
+"RT @EFJavaScript: Why the EF JavaScript team is amazing and you should come and join our team. 😀
+
+A thread and very personal job offer:"
+"RT @drakefjustin: beacon chain security is critical for the merge
+
+the EF wants to hire unicorn security researchers
+
+🦄👉 eth2security@ether…"
+"RT @dabit3: I'm excited to release the video course for The Complete Guide to Full Stack Ethereum Development 👨‍🎤🦾
+
+This 1 hour video is pa…"
+RT @TimBeiko: Berlin is here 🇩🇪 https://t.co/CvL9rWeOuc
+"RT @hudsonjameson: 🎉 The Ethereum Berlin network upgrade happens in less than 20 hours!
+
+📺 There are 2 viewing parties!
+
+⌚️ Countdown: http…"
+"RT @EF_ESP: Rollup Community Grant applications close tomorrow - submit those brilliant ideas before it's too late!
+
+https://t.co/5rgJmQzQm…"
+RT @dankrad: As Eth2 sharding is coming closer to implementation, analyzing the Legendre PRF primitive is more critical than ever. We are t…
+"RT @dannyryan: Ethereum's Berlin upgrade is fast approaching
+
+Final warning to stakers -- You *MUST* update your eth1 node for your validat…"
+"RT @TimBeiko: 🤖🕸️ Network Crawler RFP 🕸️🤖
+
+The Ethereum Foundation is looking for proposals to build an open source network crawler so anyo…"
+"RT @ETHGlobal: The prize pool for Scaling Ethereum is already at +130k USD and rising 📈 
+
+For info on prizes (and some hacker resources) he…"
+"RT @WeekInEthNews: ⟠ Latest Week in Ethereum News
+
+🇩🇪 Berlin upgrade fork this week
+🗞️ @GodsUnchained launches @Immutable zkrollup for free…"
+RT @ethdotorg: 15 languages just went live on https://t.co/czeg0jGhuX 🎉🌎 A fantastic milestone in making staking more accessible and making…
+"RT @benjaminion_xyz: What's New in #Eth2?
+
+Edition 66 has landed: https://t.co/97X85jdCzM 🎉
+
+All the latest on Altair, the Merge, Rayonism…"
+RT @fvictorio_nan: An explainer on how gas costs change after Berlin and how to use the new Access List transactions: https://t.co/wnZ9jtbh…
+"RT @peter_szilagyi: Ohey, a new release before the fork! Suspenseful!
+
+Geth v1.10.2 is a maintenance release with no immediate urgency to u…"
+"RT @jasoncarver: Syncing Ethereum mainnet in 80 seconds (a demo)
+https://t.co/VnVxL2T0yO"
+RT @lightclients: We're working with the EF to audit the EIP-3074 spec. This is an important step to ensure a safe network upgrade. If you'…
+"RT @WeekInEthNews: ⟠ Latest Week in Ethereum News
+
+💳 @Visa settling transactions on $ETH mainnet
+🇩🇪 Upgrade your nodes for Berlin fork
+☀️ R…"
+"RT @EFDevcon: Today is the last day to take the #Devcon survey! 
+
+Help provide key insights to the @EFDevcon team, and complete the first #…"
+"RT @dannyryan: Finalized no. 25
+
+https://t.co/5LjrmmwqN0
+
+tl;dr below"
+"RT @EF_ESP: Our March roundup is out! Featuring @baselineproto
+ and @aztecnetwork 🦄
+
+https://t.co/gJv1pErsYP"
+RT @VisaNews: Today, @Visa announced a major industry first: the use of USD Coin (USDC) to settle a transaction with Visa over the @Ethereu…
+"RT @WeekInEthNews: ⟠ Latest Week in Ethereum News
+
+🥩 @mkalinin2 merged spec to turn off PoW
+🚁 @arbitrum optimistic rollup release candidate…"
+"RT @EthereumRemix: Remix-IDE 0.11.0 is released! 😀😀
+Release notes for Remix IDE 0.11.0 have been published!
+https://t.co/447c0aCWMK"
+"RT @benjaminion_xyz: The latest What's New in #Eth2 is out!
+
+https://t.co/LeRPRKqW1h
+
+Very late this week, sorry. Just hoping I made it in…"
+"RT @OpenZeppelin: OpenZeppelin Contracts 4.0 for @solidity_lang 0.8 is here!
+
+👋 Farewell SafeMath era
+🗄️ Reorganized Repository
+⛽ Storage O…"
+"RT @unvetica: I have just finished uploading Step-by-Step video tutorials using @SomerEsat #pyrmont Testnet guides.
+
+These are now live and…"
+RT @TimBeiko: As promised, here is the first edition of my new series of updates related to @ethereum #AllCoreDevs: https://t.co/UKU4ELVniY…
+RT @superphiz: Come learn more about how to set up a validator and help us all keep Ethereum decentralized for years to come. @ethStaker is…
+"RT @sigp_io: 🎉🎉 Lighthouse produced its first #Eth1 &amp; #Eth2 merge transaction 🎉🎉
+
+This is an ETH tx using *only* proof-of-stake validators.…"
+RT @solidity_lang: Solidity v0.8.3 is out! 0.8.3 is a bugfix release that fixes an important bug about how the optimizer handles the Keccak…
+"RT @EMPODERA_org: 🗣️ #ImpactStories talks with @AyaMiyagotchi, from @ethereum Foundation 👉🏻 https://t.co/tafdFL0lVf
+
+🌐 ""When I ran into #Bl…"
+"RT @ETHGlobal: We're gearing up for Scaling Ethereum, kicking off April 16th. 
+
+Apply now to reserve your spot 
+👉 https://t.co/M15QTv19PT…"
+"RT @EFDevcon: 1/ Today, we're releasing a new #RoadToDevcon experience that brings #Devcon resources together.
+
+Find details on #Ethereum e…"
+"RT @dannyryan: Finalized no. 24
+https://t.co/5fEYqcYw8s
+
+tl;dr below"
+RT @EF_ESP: If you're excited about rollups on #Ethereum: the Rollup Community Grants wave is still open for proposals until April 16. Brin…
+"RT @EF_ESP: ESP office hours are back! We're taking signups for one-on-one calls with the ESP team next week, March 29-Feb 2. 
+
+More detail…"
+"See the latest on our plans to support application &amp; consensus-layer clients this year:
+
+https://t.co/ovnkb2MpBe https://t.co/Oimeo03aX3"
+"RT @sinahab: https://t.co/WejOFBImmc is becoming an increasingly useful developer hub.
+
+Here's a short backstory on how this came together,…"
+RT @EF_ESP: We just published our Allocation Update for Q4! Head to the blog for a few ESP updates and the list of #Ethereum  builders who…
+"RT @WeekInEthNews: ⟠ Latest Week in Ethereum News
+
+🛡️ @aztecnetwork private rollup live
+⛏️ Proposal to prioritize turning off PoW
+🏆 @Gartne…"
+"RT @lakshmansankar: there's been a lot of development on state size mgmt in Ethereum. 
+
+it doesn't get a ton of attention, but it's
+a vital…"
+"RT @yorkerhodes: Update 👀🔥 We won!  
+
+#Gartner @gartner_sc 
+
+Supply Chain Breakthrough of the Year award for our #blockchain work @EntEthAl…"
+RT @ETHGlobal: People building at NFTHack this weekend are coming from all over the world! https://t.co/zHiVnWtOJs
+RT @EthereumOnARM: And by the way, we are running both #ethereum 1 and #ethereum 2 nodes in the same @Raspberry_Pi . So, when someone says…
+RT @dannyryan: Announcing an open call RfP for testing, security, and diligence proposals related to ensuring the beacon chain is a safe ho…
+RT @ETHGlobal: We hinted at this last week but can't keep it to ourselves a minute longer... Excited to announce our next event: NFTHack ht…
+RT @mkalinin2: It's been a while, but PR is opened. Everybody is welcome to collaborate! Let's work that through to get Ethereum Mainnet on…
+"RT @WeekInEthNews: ⟠ Latest Week in Ethereum News
+
+The ""it's time to get rid of proof of work"" edition
+
+⏫Upgrade your @ConsenSysQuorum Besu…"
+"RT @benjaminion_xyz: Huge milestone: it's the 1000000th edition of What's New in #Eth2 🙌🎉
+
+All the news, as ever, at https://t.co/97X85jdCz…"
+RT @protolambda: Eth2 testnet with sharding mid-May? Or even more amazing with a Merge implementation in the same testnet? I think we can d…
+"RT @lakshmansankar: interested in getting involved with Eth2 this hackathon season? 
+
+try a hand at our (10k DAI in possible prizes) open c…"
+"RT @GuidoVranken: Ethereum's bug bounty program is great👍👍👍
+
+https://t.co/nLQepbl5F5 https://t.co/VlzkGb49xy"
+"A new update from @dannyryan is here:
+
+Spoiler:
+
+'application-layer' + 'consensus-layer' = #ethereum https://t.co/puBMOv2AKR"
+"RT @gitcoin: 🎉Grants Round  9 is now live!! 🎉
+
+Create a grant, Fund a grant, Create a collect and share it!!👇
+https://t.co/qMZx2Bl0Xo"
+RT @solidity_lang: Our second Solidity Team AMA is live and we'll be answering your questions throughout the day! Ask us any question you m…
+"RT @etherscan: 🔈 Berlin network upgrade happening at block 12,244,000, estimated to be on April 14th, 2021
+
+Miners and Node Operators, make…"
+"Get ready! The Berlin network upgrade is coming soon. 
+
+See the post below to learn more about what's included and how to upgrade to the latest clients.
+
+https://t.co/oDKvMz33lt"
+RT @EF_ESP: Calling all #Ethereum rollup enthusiasts! The Rollup Community Grants wave is an open call for proposals to grow the rollup eco…
+"RT @TimBeiko: With 1559 now accepted in London, I wrote one last proper update: https://t.co/7uN7mO8lLG
+
+TL;DR: it's in, no need for more u…"
+"RT @EF_ESP: In 2020 we held Local Grants waves in Honduras 🇭🇳 and Colombia 🇨🇴 
+Read more and see the recipients on our blog!
+
+https://t.co/…"
+RT @solidity_lang: Solidity v0.8.2 is out! 🎉 It adds an optimizer stage that can inline small amounts of code to save gas and provides more…
+"RT @go_ethereum: 💥 Geth v1.10.0 (Pangaea Expanse) is out! It's our latest and greatest release till now!
+
+From snapshots, through snap sync…"
+RT @EF_ESP: Here's the latest in our roundup series, where we highlight progress by current grantees! This month we're checking in on @coug…
+"RT @austingriffith: 🕵🏻‍♂️ Psst, hey web3 dev, have you looked through all the different branches of 🏗 scaffold-eth ?
+
+📦 Templates you can f…"
+"RT @UNCTAD: #Blockchain is bigger than bitcoin. It has the power to revolutionize development work.
+
+For example, the @ethereum foundation…"
+"RT @EthereumOnARM: 3 months staking on a @Raspberry_Pi 4, no big news or issues:
+
+#ethereum client: Geth 1.9.25
+#eth2 client: @sigma Lighth…"
+"RT @WeekInEthNews: ⟠ Latest Week in $ETH News
+
+1⃣5⃣5⃣9⃣ the EIP1559 issue
+💯 Ethereum passes 100,000 proof of stake validators
+💻 Lots of job…"
+"RT @benjaminion_xyz: Saturday Night Fever!
+
+It's time for the latest 🔥 What's New in #Eth2 🔥 party.
+
+Boogie on down to the usual place, htt…"
+"RT @ralexstokes: eth2 call 58 notes
+
+https://t.co/JUQVSduzku
+
+https://t.co/bIiraIeot9
+
+summary 👇"
+"RT @TimBeiko: Long overdue, here's another EIP-1559 update 🔥 https://t.co/7uN7mO8lLG
+
+It covers the client performance testing, changes to…"
+"RT @drakefjustin: The Ethereum and Mina foundations are excited to announce a joint RFP to efficiently verify Pickle SNARKs on the EVM.
+
+Th…"
+RT @EF_ESP: We're holding (virtual) office hours during the week of March 1-5! The ESP team will be available for ad hoc calls to provide f…
+"RT @dankrad: My arguments on why we should go all in on statelessness, and not aim for an easier intermediate goal.
+Partial statelessness o…"
+"RT @WeekInEthNews: ⟠ Latest Week in $ETH News
+
+📥Hacks from @ETHGlobal MarketMake &amp; @EthereumDenver
+🪙 @mcuban: $ETH better store of value th…"
+"RT @VitalikButerin: Happy Chinese/Lunar New Year all! 新年快乐, 恭喜发财!
+
+Looking forward to a bullish year of the 0x. 🐂🐂
+
+In the meantime, here's…"
+"RT @benjaminion_xyz: 📰 Latest What's New in #Eth2: https://t.co/97X85jdCzM 📰
+
+In this one, there's a juicy editorial about how Eth2 does no…"
+"RT @EFJavaScript: We are making good progress on our EthereumJS client implementation. Here is a sneak peak on a client run on Goerli:
+
+A t…"
+"RT @dannyryan: eth2 quick update no. 22
+
+https://t.co/V8c5YSCOMT
+
+tl;dr below"
+RT @solidity_lang: Want to learn more about how Solidity uses fuzz testing? In our latest blog post, @ibags gives an overview and explains…
+RT @stlouisfed: Read new research to find out what decentralized finance is and how it may lead to a paradigm shift in the financial indust…
+RT @nethermindeth: 📢 @nethermindeth are offering free online developer-focused workshops in 2021. We are keen to partner with #Ethereum com…
+RT @EF_ESP: Results are out for the recent #Ethereum staking community grants round - meet the grant recipients here! https://t.co/uhdT1zCL…
+"RT @dannyryan: 24/7 stream of eth2 client logs by @ethStaker 
+(flips between 5 clients!)
+
+https://t.co/0cK98tCzfB
+
+Aside from just generall…"
+RT @superphiz: Please call your mom and tell your friends: No home validator who is running one staking machine has ever been slashed. Slas…
+"RT @WeekInEthNews: ⟠ Latest Week in $ETH News
+
+🤝 @reddit partners with Eth Foundation
+⬆️ proposal for first proof of stake chain upgrade…"
+"RT @trent_vanepps: Workshop: Sharding and Eth1+Eth2 Merge 🤝
+
+1. (UTC 21:10-22:40 ): The Sharding Design and the Cryptographic Primitives @d…"
+RT @VitalikButerin: I make another attempt to explain how zk-SNARKs work, for those who are at least somewhat mathematically inclined but d…
+RT @jbaylina: I just published https://t.co/vgTXFXN7bW A CPU zkSnark prover, compatible with #circom and #snarkjs . It can generate 128M co…
+"RT @gakonst: New article: (Almost) Everything you need to know about Optimistic Rollup
+ 
+We explore Ethereum scaling from first principles…"
+RT @solidity_lang: Solidity 0.8.1 is out! 🆙 v0.8.1 introduces many new features for the SMTChecker, updates the emscripten version for buil…
+"RT @benjaminion_xyz: It may be all quiet on the Beacon Chain, but there's still plenty going on! 😅
+
+Catch up with What's New in #Eth2 at ht…"
+RT @icebearhww: An educational and technical Eth2 core teams R&amp;D online workshop on Feb 2nd at UTC 21:00-24:00, organized by @ethereum foun…
+RT @EF_ESP: Check out what a few of our grantees have been up to in our January roundup: https://t.co/vxT5T7NtAA
+RT @wolovim: Part of the EF Python team is pivoting to some exciting/challenging light client research - big picture context via @pipermerr…
+"RT @_Supranational: Introducing 'blst', a BLS12-381 signature library
+https://t.co/WyfLywe8Ym"
+RT @AyaMiyagotchi: 1/ @ethereum foundation is excited to have an ongoing relationship with Reddit and more collaboration as we work togethe…
+"RT @paradigm_ctf: Registration for @paradigm CTF is now open!
+
+Contest Details:
+- Feb. 5, 17:00 EST - Feb. 7, 17:00 EST
+- Each participant…"
+RT @EFDevcon: The #Ethereum ecosystem has accomplished so much since we last got together for #Devcon, but as excited as we are to reunite…
+RT @solidity_lang: The results of the Solidity Developer Survey 2020 are out! We thank everybody for taking the time to respond and the det…
+"RT @ethnimbus: Announcing the Nimbus dashboard challenge.
+
+We are proposing to leverage the creativity within the Ethereum community to hel…"
+RT @nethermindeth: @tkstanczak will be running a Eth 1.x JSON RPC API Standard call. If you would like to participate please leave a note h…
+RT @wolovim: (Finally,) the next ~8 minutes in your #Ethereum dev career: https://t.co/UGArYQlW5G https://t.co/MDqIhq5Wg0
+RT @sigp_io: The latest #Lighthouse blog post summarizes the state of #Eth2 research/engineering and provides direction for the Lighthouse…
+RT @TimBeiko: One of the better criticisms that came of 1559 this week is that the EIP itself doesn't do a great job of explaining _why_ it…
+"RT @0xstark: The Year in Ethereum 2020
+
+by me &amp; @evan_van_ness 
+
+https://t.co/6vfEhDGOfM"
+"It's a new year, and a new day. 
+
+Get some new perspective from @dannyryan on the state of #eth2 in today's update. 
+
+Available in English and Mandarin (thanks @ETHPlanet!)
+
+https://t.co/fjWD5vt98G https://t.co/kJTkxnChYY"
+RT @leonardoalt: The SMTChecker's CHC engine can now synthesize external unknown code as part of a counterexample! Available in @solidity_l…
+"RT @WeekInEthNews: ⟠ Week in Ethereum News
+
+🚀 @lightclients busy year for Eth protocol
+🗞️ @optimismPBC soft launch with @synthetix_io 
+⚡️ @…"
+Now this is something that we can all get behind. Stay safe out there, thanks @ethdotorg team! https://t.co/QxO5AhgQbR
+"RT @JHancock: Draft for the Berlin Network Upgrade / Hardfork Specification. 👇👇👇
+
+https://t.co/JHamdR9tTp
+
+Follow here for canonical inform…"
+"RT @TimBeiko: A _lot_ has happened on 1559 in the past few weeks. I've just finished summarizing it in the latest update: 006 out now 🔥 
+
+T…"
+"RT @ConnextNetwork: 🚨 Vector is on mainnet! 🚨
+
+🤯 This means seamless communication to, from, and between L2 systems *works today*.
+
+👋 Say h…"
+"RT @TimBeiko: More in 1559 news: I've put together a list compiling the various write ups, simulations, explainers, etc. about the EIP 🔥
+
+F…"
+RT @ethStaker: Is the ETH-1 / ETH-2 merge (and PoW shutdown) coming before sharding? Learn this and more watching this Q &amp; A session with @…
+"RT @benjaminion_xyz: Your first dose of What's New in #Eth2 for 2021 is ready and waiting! 🎉
+
+https://t.co/97X85jdCzM
+
+The beacon chain is…"
+RT @optimismPBC: Our knees are weak and our palms are sweaty, but Optimistic Ethereum is finally ready. https://t.co/S4EAzzpKSg
+"RT @ensdomains: We're pleased to announce we're partnering w/ @Cloudflare to provide better service for https://t.co/FjEunMBoD9!
+
+This is a…"
+RT @lightclients: 2021 will be the most innovative year for the Ethereum protocol since 2016. Here are the EIPs to keep an eye on this year…
+RT @USOCC: In a @FinancialTimes OpEd, @USOCC’s @BrianBrooksOCC looks at the future of finance and opportunities of Decentralized Finance (#…
+"RT @VitalikButerin: An Incomplete Guide to Rollups:
+
+https://t.co/j8jiB0z1Xp"
+"RT @ETHGlobal: 🛠️ Build with the best in 2021 🛠️
+
+The final deadline to apply to the 𝐌𝐚𝐫𝐤𝐞𝐭𝐌𝐚𝐤𝐞 #defi hackathon is in 5⃣ days!! (jan 10). S…"
+"RT @WeekInEthNews: ⟠ Week in Ethereum News
+
+Starting 2021 with a 🚀
+
+🔥 @algo_class fee burn analysis
+⛽️ @fuellabs_  optimistic rollup 500 tx…"
+RT @algo_class: Video from the recent @EthereumSV meetup with @VitalikButerin on EIP-1559: https://t.co/lHtXb4LnMm
+"RT @fuellabs_: ⛽ To wrap up the year, Fuel v1 is now officially on mainnet!
+
+As the first-ever optimistic rollup, Fuel brings true scalabil…"
+"RT @benjaminion_xyz: A brief end of year round-up of Eth2 news for you all.
+
+At the usual place: https://t.co/97X85jdCzM
+
+It's been a busy…"
+RT @ETHGlobal: We're fortunate to have the support of @AaveAave @ethereum @chainlink and @ensdomains for the upcoming #MarketMake #Hackatho…
+RT @EF_ESP: One final update before we say goodbye to 2020! https://t.co/dtmEKco2dc
+RT @_franzihei: If you didn't respond to the Solidity Developer Survey 2020 yet, the time is now! Please take 10 mins to help us gain insig…
+"RT @protolambda: Forgetting to tweet, but #eth2 stuff is happening. Update!
+
+Pyrmont, code review, Launch, done.
+
+Trying to focus on two th…"
+"RT @ETHGlobal: 💸 🛠️🚀 🧠
+🧠 Market 💸
+🚀 Make    🛠️
+🛠️ 💸 🧠🚀
+
+Jan 15 - Feb 7
+
+Join to hack, meet people, build #defi!
+https://t.co/yBbcqzqIkD"
+"RT @WeekInEthNews: ⟠  Latest Week in Ethereum News
+
+🏦 @CMEGroup $ETH futures in weeks, not months
+🧮 @solidity_lang v0.8 no more SafeMath
+🖥️…"
+RT @ethdotorg: We’ve updated our approach to translations and the UX of our language sites. Check out our translation program’s latest mile…
+"RT @TimBeiko: It will be a challenge to fill Hudson's shoes in AllCoreDevs, but I couldn't be more excited to start 😁
+
+We've got a ton of w…"
+"RT @ethconkr: Honored to introduce the speakers of #ETHConKorea2020 ! 🦄
+[ Day 2 Part 6]
+
+✅ @MPtherealMVP, @golemproject 
+✅ Luke Shim, https…"
+"RT @MyCrypto: Need Testnet $ETH?
+
+You can now receive Ropsten, Rinkeby, Kovan, and Goerli ETH with our new faucet. 
+
+Try it 👉 https://t.co/…"
+"RT @TimBeiko: Short and sweet, one final 1559 update before the holidays 🎄
+
+EIP-1559 Update 005 is out 🔥
+
+https://t.co/7uN7mO8lLG"
+"RT @EntEthAlliance: A truly impressive, in production demonstration of supply chain transformation driven by blockchain. 
+
+A tip of the🧢 to…"
+"RT @dannyryan: Reminder!
+Eth2 Staking Community grant proposals are due December 22nd
+
+If you have ideas to make for a more delightful stak…"
+"RT @UNICEFinnovate: What do @UNICEFinnovate and the @DPGAlliance have in common? 🤔
+
+We're working together to 1) achieve the #SDGs and 2) h…"
+RT @solidity_lang: Solidity 0.8.0 is here! 🎉 Solidity 0.8.0 is a breaking release of the Solidity compiler and language. Check this thread…
+RT @jamesfickel: Launching https://t.co/5hV0AHfVxQ today! Easily create long-term incentives for Ethereum public goods creators. Point ETH…
+"RT @etherisc: .@Etherisc’s crop insurance initiative in Kenya earns support from #Ethereum Foundation! Read more here:
+ https://t.co/csbngG…"
+"RT @benjaminion_xyz: ""It’s been a wonderfully dull eleven days since genesis: apparently it all just works 🎉""
+
+But there's still no shortag…"
+RT @MartinLundfall: The new release of `hevm` incorporates its symbolic execution capabilities into the `dapp` testing framework, enabling…
+"RT @go_ethereum: We have released the (hopefully) last release of the 1.9 branch, ""Marljeh"" v1.9.25: https://t.co/EGOwGLyNdK, containing se…"
+RT @adiasg: Thoughts on failovers for Eth2.0 validator clients: https://t.co/MSNg1lx3ky
+"RT @Devfolioco: 🚀 Devfolio Ethereum India Fellowship 2.0 applications are now live!
+
+Break into the @ethereum ecosystem in our 8-week mento…"
+RT @CarlBeek: A lot of validators are worrying about the wrong things regarding their profitability. The beacon chain is much kinder and mo…
+RT @solidity_lang: The Solidity Developer Survey 2020 is live! Please participate and help us shape the future of Solidity by sharing your…
+"While #eth2 has been on our minds, incredible progress has been made in recent months by all EF-supported teams. We might’ve missed quite a bit from each other while apart this year, so we’re excited to share a *long* report detailing their updates today.
+
+https://t.co/Epb65FhFb3"
+"RT @TimBeiko: EIP-1559 Update 004 just in 🔥
+
+As always, available at https://t.co/ZNTovk4Vcr, along with past issues.
+
+Here's a quick summa…"
+RT @VitalikButerin: The roadmap I made back in March updated with (very rough and approximate!) progress bars showing what has been done an…
+"RT @WeekInEthNews: ⟠  Latest Week in Ethereum News
+
+🥩 eth2 successfully launches, staking is live 🚀
+🔢 @algo_class publishes 1559 analysis
+🏦…"
+RT @solidity_lang: After thorough assessment of all submissions, we are happy to share the winners of this year’s Solidity Underhanded Cont…
+"RT @EntEthAlliance: How do Ethereum Layer 2 scaling solutions address barriers to enterprises building on Mainnet? 
+
+Check out the new, top…"
+"RT @technocrypto: We hit 99% participation for epoch 740 of the #eth #beaconchain.
+NINETY-NINE PERCENT!!!
+This means that out of 23,835 eli…"
+"RT @EntEthAlliance: We are live for day 2!
+
+Check out the top enterprise blockchain priorities of leaders in Asia Pacific, and across the w…"
+RT @algo_class: A new report: Transaction Fee Mechanism Design for the Ethereum Blockchain: An Economic Analysis of EIP-1559 https://t.co/2…
+"RT @EntEthAlliance: We are really looking forward to this panel on community growth in the Ethereum ecosystem. Please join us today. 
+
+@Aya…"
+RT @AyaMiyagotchi: Como les conté hoy, durante @Col4punto0, pueden unirse a la comunidad Latinoamericana de Ethereum, incluso antes de @EFD…
+RT @phildaian: Around three years ago, I became interested in a question: what unexpected new challenges do smart contracts pose to securit…
+"RT @nethermindeth: Today is a huge day for #Ethereum - congrats to all teams who have worked tirelessly to make this happen 🥳
+
+🚀 #Eth2 is H…"
+"RT @protolambda: Best day of 2020. Good work everyone!
+
+Thanks @ethStaker @sigp_io @prylabs @Teku_ConsenSys @ethnimbus @ChainSafeth @libp2p…"
+RT @ssaintleger: Couldn't be prouder to be a part of this historic moment 🙏. Congratulations everyone. @ethereum ❤️ https://t.co/6IMNE74ads
+RT @ethereumJoseph: The launch of the #Eth2 Beacon Chain is characteristic of the emergent, open-source ethos that attracts so many to Ethe…
+"Genesis, again. #eth2 
+
+https://t.co/teiIbNy0oO"
+"RT @ETHBerlin: What's that in the middle? looks like... ETHBerlin!!!!!!
+We're stoked about today #ETH2 is here! https://t.co/wbaPfVGjK8"
+"RT @EthereumMemes: 🔴 #Eth2 genesis live streams 🔴
+
+🕛 12 hours from now - 11:30 AM UTC 🕛
+
+🔷 @ethereum + @ethStaker 🔷 
+https://t.co/kxZxJhXoH…"
+"RT @ralexstokes: ~10.5 hrs to mainnet; eth2 fork monitor deployed
+
+https://t.co/K2eugcJG5l"
+RT @econoar: 12 hours until eth2 genesis.
+"RT @benjaminion_xyz: With less than 12 hours to genesis, here's your latest What's New in Eth2, the
+
+✨✨ Eve of Mainnet Edition ✨✨
+
+See you…"
+RT @gichiba: The beacon chain is the bright shining future of Eth2, but the road to Serenity passes through the gates of Eth1.x -- https://…
+"RT @ETHGlobal: 👋 Are you a dev new to crypto?
+
+Don't miss the next #Ethereum Dev Onboarding Session, feat. @ljxie @austingriffith &amp; friends…"
+"RT @dannyryan: eth2 quick update no. 21
+https://t.co/aXDtEbS2Q0
+
+Short and sweet.
+
+* Genesis is Dec 1, 12pm UTC
+* Configure your nodes 🖥
+*…"
+RT @EFJavaScript: All hardforks supported, EIPs as native citizens (starting with: EIP-2315, EIP-2537, EIP-2929), TypeScript, Promises, Tx…
+"RT @mkalinin2: Executable Beacon Chain proposal is out
+
+https://t.co/ADwKFbtVVp"
+"RT @SomerEsat: Pleased to share that I have completed 2 of 4 mainnet guides - Lighthouse and Nimbus! #Eth2
+
+https://t.co/UnogATN5Xs
+
+@sigp_…"
+RT @dankrad: Future stakers, remember that you will need a synced Eth1 node! I recommend setting that up now. Don't leave it to the last mi…
+"RT @EF_ESP: The Q3 allocation update is live - head over to our blog to meet the latest batch of grantees!
+
+https://t.co/kwBorjxKe8"
+"RT @austingriffith: 🧐 Want to learn how to build on Ethereum?
+
+🗺 Choose your own adventure:
+
+Learn the fundamentals: 🛠https://t.co/LdM8jLNL…"
+RT @superphiz: So much time and effort. Congratulations to the researchers and implementers. Special shout out to @dannyryan. The beacon ch…
+"RT @DepositEth: We have liftoff. 🚀 
+
+Thank you to the devs, the researchers, educators and community members who made this happen. 
+
+See yo…"
+RT @EntEthAlliance: Learn more about the new EEA EthTrust Security Levels Working Group and EthTrust project at Ethereum in the Enterprise…
+"RT @WeekInEthNews: ⟠  Latest Week in Ethereum News
+
+🚀 Over 50% of the $ETH for proof of stake to launch
+🕸️ @ConnextNetwork cross-layer2 cha…"
+"RT @ConnextNetwork: 🚧 Cross-chain interop is the biggest barrier to L2 adoption today.
+
+🌐 Over the last few months, we've quietly built Vec…"
+"RT @technocrypto: The #Ethereum #proofofstake #phase0 #beaconchain is getting close to launch!
+
+So what?
+
+Here's a thread to explain why mi…"
+"RT @dankrad: Want to have a more secure setup for Eth2 staking?
+Here is how to use a Raspberry Pi as a HSM (until we have dedicated ones):…"
+RT @solidity_lang: Solidity v0.7.5 is out! It adds a new ability so select between ABI coder v1 and v2 and introduces ``--experimental-via-…
+RT @solidity_lang: Reminder that the time is *now* to provide your feedback on the 0.8 preview release and the breaking changes. Did you tr…
+RT @EF_ESP: In our new blog series, we're catching up with grantees as they hit milestones or wrap up their grant-funded work. Check out ou…
+"RT @NomicLabs: A recap of every project we've worked on in the past year
+
+https://t.co/gBV8eWuRlU"
+"Eth2 AMA in 10 minutes over on r/ethereum: 
+
+https://t.co/EJ9Gx6oEeX https://t.co/TRUS5ebBje"
+RT @lakshmansankar: Congratulations to all winners of the Eth2 Medalla data challenge! https://t.co/nHdxwQUeMN
+"Less than 24 hours until a special #Eth2 Genesis Edition of the EF Eth 2.0 Research team's AMA series.
+
+The AMA begins at 1PM UTC (8AM ET / 2PM CET) on 18 Nov, but your Genesis questions can be posted ahead of time here: 
+https://t.co/EJ9Gx6oEeX https://t.co/6xWAKQIRGK"
+"RT @sigp_io: 🐞 Our latest fuzzing update for #eth2 is out! 🐞
+
+- 2 critical consensus-related vulnerabilities on a major client found with o…"
+"RT @ethzed: Hey #infosec friends, just a reminder that the @ethereum foundation has released a bug bounty program for #eth2. 
+
+Up to $50,00…"
+"RT @etherisc: .@Etherisc is happy to collaborate further with @Chainlink to deliver agricultural insurance in Kenya. 
+
+#Etherisc Impact sol…"
+"RT @dannyryan: eth2 quick update no. 20
+https://t.co/EH8CBfMkwk
+
+tl;dr below"
+"RT @drakefjustin: Golang security releases from Ethereum disclosures:
+
+* go1.14.7 (Aug 6) thanks to Eth2 team
+* go1.14.12 (Nov 12) thanks t…"
+RT @go_ethereum: Geth version v1.9.24 has been released: https://t.co/pPGZ5hbhjZ . Geth v1.9.24 is a security release. It is built with Go…
+RT @samczsun: Price oracle manipulation has resulted in over 30MM of losses so far and it shows no signs of slowing. Here’s the definitive…
+"RT @dannyryan: Announcing the Eth2 Staking Community Grants Round!
+
+The Ethereum Foundation is funding a wave of grants for the creation of…"
+"RT @dannyryan: Reminder: for eth2, MIN_GENES_TIME is December 1st at 12pm UTC, but GENESIS_DELAY is 7 days
+
+(Assuming min deposits are hit)…"
+"RT @TimBeiko: EIP-1559 Update 003 is hot off the press 🔥👀
+
+You can read it here, along with past issues: 
+https://t.co/ZNTovk4Vcr 
+
+TL;DR b…"
+RT @ajsutton: Just sync’d Medalla in 2 minutes with @Teku_ConsenSys. Yes minutes. This is Meredith Baxter’s amazing work supporting weak su…
+"RT @WeekInEthNews: ⟠  Latest Week in Ethereum News
+
+🚀 Ethereum proof of stake scheduled to launch Dec 1 if enough deposits by Nov 24
+3⃣ Ope…"
+"RT @OffchainLabs: We couldn't wait to try out Uniswap on Layer 2.
+
+So we went ahead and built it on Arbitrum Rollup.
+
+Introducing 🦄Arbiswap…"
+"RT @OpenEthereumOrg: OpenEthereum v3.1.0 is out! It solves the issues introduced in V2.7.
+
+https://t.co/C5hSptEpUW
+
+v3.1.0 is a release bas…"
+"An essential piece of #Ethereum’s Serenity upgrade, the Beacon Chain’s deposit contract, is live. This begins a transition to #Eth2.
+
+@EthDotOrg Guide: https://t.co/PkKwLnXKS4
+Launchpad: https://t.co/CFgFwAs46f
+Deposit Contract Address: 0x00000000219ab540356cBB839Cbe05303d7705Fa"
+RT @ethstatus: 🎉 Status hereby supports the launch of the ETH 2.0 Deposit Contract at the address: 0x00000000219ab540356cbb839cbe05303d7705…
+"RT @dannyryan: eth2 quick update no. 19
+https://t.co/ruz3PQJXd1
+
+v1.0.0 specs released
+
+Mainnet launchpad live 🚀
+
+Thank you to the countles…"
+"RT @peter_szilagyi: Geth snap sync results (only state) against 3 serving nodes.
+
+Network packets reduced by 5(!) orders of magnitude, serv…"
+"RT @dannyryan: A number of critical resource consumption issues were patched
+
+If you are running Prysm on Medalla, please upgrade soon! htt…"
+RT @solidity_lang: Solidity v0.8.x PREVIEW RELEASE! 🥳 With the Solidity 0.8.x series being almost around the corner, we would like to provi…
+RT @jcksie: The medalla #eth2 testnet hasn't been finalizing for a while which puts some additional stress on clients as the number of poss…
+"RT @wekabot: I've written up an overview of the layer 2 gateway solution I demoed at yesterday's ENS meeting.
+
+I'm really excited to see wh…"
+"RT @benjaminion_xyz: No tricks, but plenty of treats: your latest bumper edition of What's New in #Eth2 is out!
+
+Get all the #Ethereum 2.0…"
+RT @tylercowen: Vitalik interviewing me, starts at about 7:00, about crypto and tech most of all: https://t.co/LlZwRUpbhd
+"RT @trent_vanepps: Thread/ The eth1 &gt;&gt; eth2 naming convention implies SEQUENTIALITY: aka things are strictly ordered.
+
+In reality, there wi…"
+"RT @ETHGlobal: Announcing ETHBogota! 
+
+&gt; August 6-8
+&gt; Alongside @EFDevcon in Bogota, Colombia
+
+cc @ethereum https://t.co/fhKDqwJUg1"
+"RT @dannyryan: Check out @superphiz's #ETHOnline talk:
+
+Intro to Eth2 &amp; Staking for Beginners
+
+Unbelievably clear and concise on all the th…"
+RT @ethdotorg: Want to learn more about the tech behind Ethereum? Or want to share your wisdom with the next generation of builders? Check…
+"RT @WeekInEthNews: 📥 Latest Week in $ETH News for Oct 25, 2020
+
+📰  https://t.co/PSdH3ectUb
+
+👷 B̶u̶i̶d̶l̶e̶r̶  is now @HardhatHQ
+📈 Ethereum…"
+RT @mandrigin: 🚀🚀🚀 #TurboGeth 2020.10.02-alpha is here after 3 weeks! I think I'll just share a screenshot of the changelog instead of tryi…
+RT @solidity_lang: Solidity v0.7.4 is out! It fixes a storage corruption bug that occurs when copying empty byte arrays to storage. Besides…
+RT @smpalladino: After recently stumbling upon a list of Falsehoods Programmers Believe About, I decided to give a shot to write one about…
+"RT @HardhatHQ: Buidler has evolved: Introducing Hardhat
+
+https://t.co/gTQqqYMfMu https://t.co/dkGW8bBEeZ"
+"RT @official_fe: ""Fe: A new language for the Ethereum ecosystem"" 
+
+https://t.co/sDnZ9VwoXp
+
+🚀🦀🤖
+#Ethereum #Fe #Rust"
+"RT @iamDCinvestor: Wish I could watch this right now, but damn these work conference calls...
+
+But a friend just shared this news with me f…"
+RT @paulhauner: Sigma Prime is very excited to finally reveal our new branding for Lighthouse, along with a teaser video titled #hellodanny…
+RT @solidity_lang: We're excited to announce the Solidity language portal, a one-stop-shop for all important links and high-level informati…
+"RT @benjaminion_xyz: Your newest news in #Ethereum 2.0 is here! https://t.co/97X85jdCzM
+
+Sorry it's a bit late, and a bit rushed. I took so…"
+RT @go_ethereum: Geth v1.9.23 - Tupari - is out! Biweekly maintenance release with a couple of security fixes, some new features and improv…
+"RT @dannyryan: Thanks @ETHGlobal for letting me rant last week 
+
+""eth1"" &amp; ""eth2"" are misnomers and imply a false sequentiality
+
+Instead, th…"
+"RT @NomicLabs: Today we're saying goodbye to compiling cryptography dependencies when working with Ethereum! 🥳
+
+Learn more about our finish…"
+"RT @TimBeiko: Fresh off the press, another EIP-1559 update 🔥 
+https://t.co/ZNTovk4Vcr
+
+Fun fact: this link will always bring you to the lat…"
+"RT @CoinDesk: ""Let me just basically say how impressed I am by Ethereum, full stop, period.""
+-@CFTC Chairman @ChairmanHeath at #investeth.…"
+"RT @OffchainLabs: 🚀We're excited to announce Arbitrum Rollup's new testnet🚀
+
+Deploy ANY contract today!
+
+✅Open to everyone
+✅Solidity suppor…"
+RT @superphiz: Hey y'all, we formalized the YouTube livestream link for the Zinken Testnet launch happening around 1145 UTC Monday, October…
+"RT @VitalikButerin: A quick recap of the short and medium term of Ethereum scaling.
+
+TLDR:
+
+1. Ultra-high scaling with sharding + rollups w…"
+RT @ethchris: A must read for the @solidity_lang underhanded contest (just over three weeks to go!) - coincidence? https://t.co/gNS8Vjpqw6
+"RT @dannyryan: Announcing the eth2 bounty program!
+https://t.co/S6SHqN4D2q
+
+The spec and attacknet programs are now deprecated in favor of…"
+"RT @pedrouid: WalletConnect now supports:
+
+ ✅ QR Code for mobile-to-desktop
+
+ ✅ Mobile Linking for mobile-to-mobile
+
+ ✅ ""Copy to Clipboard""…"
+2/ And don't forget to tune into the second Friday #ETHOnline summit happening now over at https://t.co/yQkE2BD1cS
+"1/ As @ETHGlobal's #ETHOnline summit continues now, take a moment to learn more about how we're rediscovering #Ethereum's opportunities w/ the @Ethereum Foundation's @AyaMiyagotchi. By focusing on what guides us, we can create the most impact as we build.
+
+https://t.co/e6sDxbnZ0K"
+RT @VitalikButerin: I'm speaking in 4 hours! https://t.co/GlKzVTvYXY
+RT @gballet: A foray into the wonderful world of RLP, and why it will be dropped in binary tries https://t.co/hH66PVVsYk
+"RT @WeekInEthNews: Latest Week in $ETH News is out
+
+➡️ https://t.co/yXd08sfObe
+
+🥩 eth2 deposit contract very soon
+🧻 All-in on rollups
+🌍🔥 Ge…"
+"RT @dannyryan: I'm running Teku for the Zinken dress rehearsal launch
+
+Genesis deposits due Thursday Oct 8th at 12pm UTC
+https://t.co/fLPu2…"
+"RT @benjaminion_xyz: 🎂 It's What's New in Eth2's 2nd birthday! 🎂
+
+Get your ever fresh #Ethereum 2.0 news at https://t.co/97X85jvdrk!"
+*it's happening* https://t.co/4kiujF8X6z
+That's TODAY! Head over to https://t.co/YrOHOmkMK6 and sign up. :) https://t.co/TGtzvq4wGC
+"RT @sigp_io: 🐞 We've just released a new #Eth2 fuzzing update 🐞
+
+- Slashing processing discrepancies
+- BLS differential fuzzing
+- Teku inte…"
+"RT @dannyryan: eth2 quick update no. 18
+
+Oh you, Spadina,
+Finally, finality
+Hello and farewell
+
+https://t.co/J42gvvmkeN
+
+tl;dr below"
+"RT @Eth2Scc: 15 minutes until the Spadina testnet launch party goes live!
+
+https://t.co/BYt3R5zdDs"
+RT @ETHGlobal: #ETHOnline applications are only open for a few more days - what are you waiting for? Apply now at https://t.co/Y2iPqOz4Ht…
+"RT @dannyryan: Spadina launch tomorrow (Sept 29) at 12pm UTC!
+
+This is a full ""dress rehearsal"" so ethstaker (@Eth2Scc) will be hosting a l…"
+"RT @WeekInEthNews: ⟠  The latest Week in Ethereum News!
+
+➡️  https://t.co/6znm7jeXJK
+
+🙏 thanks to @CelerNetwork for making this issue possi…"
+RT @solidity_lang: The Solidity Underhanded Contest is live! This year's contest is all about upgrade mechanisms. Submissions close on Oct…
+RT @VitalikButerin: To any interested cryptographers: this continues to be one of the more valuable not-yet-solved problems in making an op…
+"RT @tinchoabbate: DAMN VULNERABLE DEFI
+
+Put your black hats on, and start breaking vulnerable DeFi contracts! 
+
+With challenges including…"
+RT @optimismPBC: At long last - light at the end of the tunnel. Welcome to the first phase of the Optimistic Ethereum Testnet ⛅️. https://t…
+RT @EthCC_: Brace yourselves #ethereum community... here we go again https://t.co/yrTzXEyNii
+Looking to learn all about EIP-1559, a proposed change to Ethereum's fee market? For an overview, a status update and more on next steps, @TimBeiko's new blog series is worth a read. https://t.co/wz5wGkW3tQ
+"RT @vdWijden: I just published a quick rundown of our ongoing fuzzing effort for the upcoming Berlin hardfork for #ethereum
+All in all, we…"
+"RT @dannyryan: eth2 quick update no. 17
+
+📣 Last chance to practice genesis before mainnet 📣
+
+https://t.co/IomkismOBP
+
+tl;dr below"
+"RT @benjaminion_xyz: ""Weeks, not months.""
+
+Your latest mildly opinionated take on what's occurring in the world of #Ethereum 2.0 is ready f…"
+RT @solidity_lang: The rumors are true: We are excited to announce that the Solidity Underhanded Contest is back! Since this announcement c…
+"RT @_SamWilsn_: Have you ever wondered how EIP-2938 flavoured Account Abstraction will taste?
+
+We've put together a (somewhat) brief and (s…"
+RT @drakefjustin: The BLST library is the equivalent of libsecp256k1 for BLS12-381—ultra-high performance and quality. Formal verification…
+"RT @dannyryan: eth2 quick update no. 16
+
+Get ready for the dress rehearsal!
+
+Can’t travel these days
+Miss the people, not the planes
+Spadin…"
+"RT @SomerEsat: Finally, I have my @ethnimbus guide up! #Eth2
+
+https://t.co/3iQQoiPe60
+
+@dannyryan @ethstatus"
+"RT @ETHGlobal: ~ https://t.co/Y2iPqOz4Ht ~
+
+1/ Remember when new tech was... exciting? 
+
+When tech was about more than bigger screens, excl…"
+"RT @wolovim: The first ~9 minutes of your #Ethereum dev career:
+https://t.co/4zawYvklXG"
+RT @go_ethereum: Geth v1.9.21 just out! Makes fast sync memory usage stable... and also avoids crashing with an OOM O:) Other highlights be…
+RT @EF_ESP: Check out the list of grants from the second quarter of 2020 (and some bonus ESP updates) in our Q2 Allocation Update: https://…
+RT @dannyryan: Calling data scientists, data engineers, data visualizers, developers, and anyone interested in digging into Ethereum data!…
+"RT @NomicLabs: @Solidity_lang is now a first-class citizen on Github! 🥳
+
+Using EF funding we sponsored a maintainer of @GitHub’s language d…"
+RT @ljxie: There's been a ton of interest in Ethereum lately. To help make it more accessible to new devs joining, we're setting up open, v…
+"RT @benjaminion_xyz: Need a break from fish-themed defi meltdowns swimming in a sea of red?
+
+Why not catch up with What's New in #Eth2? Tha…"
+RT @ChainSafeth: We are excited to announce that we have received a grant from the Ethereum Foundation to work on Web3JS. Check out this po…
+RT @solidity_lang: Solidity v0.7.1 has just been released! 0.7.1 adds functions at file-level as a way to define helper-functions that are…
+RT @zooko: Today we are releasing the source code for Halo 2 in cooperation with the Ethereum Foundation, and committing to supporting Halo…
+"RT @dannyryan: eth2 quick update no. 15
+https://t.co/aWSQIX2dPA
+
+Farmer minds his crops 👩‍🌾
+An optimistic outlook ✨
+The fields are aflame 🔥…"
+"RT @mkalinin2: Eth2 Phase 1 client demo, a demonstration of a simple transfer.
+
+This prototype is capable of performing any Eth1 transactio…"
+"RT @go_ethereum: Geth v1.9.20 - Paragade - is released! Exciting bug fixes and basically no new features. You will love this release. 
+
+htt…"
+"RT @gichiba: Back to basics this week with a significant update to the Stateless #Ethereum tech tree: reGenesis edition. 
+
+https://t.co/5i7…"
+"RT @benjaminion_xyz: How exciting - your second edition of What's New in #Eth2 inside a week 😀
+
+More on Medalla, but plenty else besides. A…"
+RT @EF_ESP: Looking for a new challenge? ESP collaborated with the #eth2 team to put together some problems that need solving - find out mo…
+RT @CarlBeek: A diversity of clients in eth2 is not only important for the network, but vital for validator safety &amp; earnings too. Find out…
+"RT @sigp_io: 🐞 We've just published our latest #Eth2 fuzzing update! 🐞
+
+- Community fuzzing identified 4 new bugs/crashes on 3 different cl…"
+RT @EF_ESP: Ecosystem Support means more than just grants! Read about some of the awesome projects we've worked with in our latest blog pos…
+RT @prylabs: Here is what happened to the Medalla testnet this past weekend, along with root cause analysis and our detailed plans moving f…
+"RT @sigp_io: Our latest Lighthouse development update is out!
+
+We provide a run-down the current Lighthouse development focus, the trials o…"
+"RT @EFDevcon: Have ideas for Devcon? Meet Devcon Improvement Proposals (DIPs)!
+
+https://t.co/LyI2rD7Mu4"
+"RT @VitalikButerin: Support Ethereum ecosystem client diversity!
+
+Consider running:
+
+* Nethermind https://t.co/8A3bkliGAy or Besu https://t…"
+"RT @dannyryan: Join the ranks of @JonnyRhea @mhswende and @Sadovskyi_Alex by placing your name on the eth2 attacknets Trophy list🏆
+
+https:/…"
+RT @go_ethereum: Geth v1.9.19 - Red Janey - just out! Deterministic tx ordering to discourage front-running spam, faster warmup times, fast…
+"RT @zokratesproject: We are pleased to announce a new release of the ZoKrates toolbox! 
+
+Highlights are:
+- Unsigned integer types 🔢
+- Nativ…"
+"RT @benjaminion_xyz: The latest What's New in Eth2 is ready for y'all!
+
+🚀 Medalla testnet
+🤓 Cryptography
+🤯 Great explainers
+🎉 EDCON
+
+And so…"
+RT @protolambda: We found and disclosed an input-validation bug in the Go standard library: encoding/binary ReadUvarint and ReadVarint.  Th…
+RT @ethdotorg: New pages, designs, milestones and more – catch up on what we've been up to over the last few months. https://t.co/Gt8YlJ7ISZ
+"Medalla is live! 🏅
+
+Get involved with the EthStaker community on Reddit (r/ethstaker) and Discord (https://t.co/k8xFfB7qVL), and follow along (https://t.co/ijM3Z3VyHG, https://t.co/fURuvJuzp3).
+
+It's like Olympic all over again. #eth2 https://t.co/TKU8mEANMh"
+3 minutes until the Eth 2.0 Medella multi-client testnet launch! Tune in live here: https://t.co/sMDoVxCfKB
+"RT @superphiz: Announcing the Ethereum 2 Phase 0 Medalla Testnet Launch Viewing party, scheduled for August 4 @ 1230 UTC:
+
+https://t.co/L4J…"
+"RT @EF_ESP: Catch us tomorrow 10am ET at @ETHGlobal's #HackFS to learn about what ESP does and why, complete with fun stats. 
+Join here: ht…"
+"RT @drakefjustin: The Ethereum Foundation is building an internal security team dedicated to Eth2.
+
+Fuzzing, bounty hunting, pager duty, cr…"
+"RT @dannyryan: eth2 quick update #14 -- all eyes on Medalla 👀
+
+https://t.co/QPvmP8Wp2g
+
+tl;dr below"
+"RT @MartinLundfall: hevm now supports symbolic execution!
+It can be used to find assertion violations, prove equivalence between contracts,…"
+"RT @Eth2Scc: We are pleased to announce the Medalla testnet launch party!
+
+Check out all the details on how to join and participate here.…"
+"Happy 5th Birthday, #Ethereum!
+
+https://t.co/HK3kdpIwhU https://t.co/gzx3FkcTlE"
+RT @ethdotorg: We’re excited to celebrate a huge milestone - we now support 30 languages! 🎉 As always, a huge thanks to all of the voluntee…
+RT @solidity_lang: Solidity 0.7.0 is out! 🥳 v0.7.0 is a breaking release of the  compiler &amp; language. It does not include many features but…
+"RT @gichiba: ""The EVM is the special domain of smart contracts, and it’s the smart contracts that are ultimately to blame for all those rid…"
+"RT @crlomazzo: ⚡️500+ applications from 68 countries. A new record! ⚡️
+
+Thank you to the blockchain startups who applied for funding and me…"
+"Announcing the #eth2 validator launchpad (testnet version).
+
+https://t.co/G0y4itoJzA"
+RT @go_ethereum: Geth v1.9.18 just out! Fixes a sync throttling degradation / hang, stabilizes transaction pool churn and fixes certain dev…
+"RT @ethdotorg: 🚢 Shipped this sprint 🚢
+
+New pages
+------------
+❓What is ETH
+🌍 Get ETH
+🫂 Contributing
+
+New languages
+----------------
+🇺🇦 We'…"
+"Meet Medalla. 
+
+The latest #eth2 quick update from @dannyryan is here.
+
+Read more on the multi-client testnet, attacknets, and the eth1+eth2 merger below! https://t.co/jGuIgjP38g"
+"RT @dannyryan: Announcing eth2 attacknets -- beta-0! 
+
+https://t.co/nMXChoDaVH
+
+We welcome white hats to bring down the two beta-0 attackne…"
+"RT @peter_szilagyi: We're trying something new here!
+
+To unlink Geth release announces from my personal Twitter account, we've created a de…"
+"RT @austingriffith: 🛠 Start building on Ethereum today with 🏗scaffold-eth!
+https://t.co/KnpsbUfusF"
+"RT @wanseoblim: I am so pleased that @barrywhitehat and I finally ship the first testnet of Zkopru, the privacy layer 🥸 for Ethereum
+https:…"
+"RT @identhree: We just published a new version of snarkjs. Highlights include:
+
+💻 Native Wasm
+
+⚒️ Tools for trusted setups 
+(powers of tau…"
+"RT @etherchain_org: Our ETH 2.0 fuzzing journey continues! 
+We've found one valid bug so far on the Lodestar client by @ChainSafeth 🐞 
+http…"
+"RT @BrownieEth: 🚢 Just shipped Brownie 1.10.0 🚀
+
+🔥 Featuring expanded call traces 🔥
+
+🏗️ #buidl on #ethereum using #python 🐍 https://t.co/W8…"
+"RT @ethnimbus: The case for running your own validator
+https://t.co/vTfWxBvhaa"
+"RT @peter_szilagyi: As promised, the first article from the ""Ask about Geth"" series is out! Describes Geth's new snapshot acceleration stru…"
+RT @rv_inc: We are happy to report the successful completion of another major milestone in an ongoing collaboration between @rv_inc and @et…
+"RT @epheph: ""Honeypots in Ethereum And How To Avoid Them With  @TenderlyApp""  https://t.co/lcvXfnb1Ml"
+RT @solidity_lang: Solidity v0.1.0 turns 5 years old today! 🎉 To celebrate the occasion, read our latest post and walk down the memory lane…
+"RT @vdWijden: I just published the first part of a mini-series about how to interact with @ethereum using #golang. 
+Check it out! 
+https://…"
+"RT @sigp_io: 🐞 Announcing our Community Fuzzing initiative for #Eth2 in our latest Beacon Fuzz update 🐞
+
+https://t.co/k2WfIQRwmr"
+"Wow, that's in just a few minutes! Ready? Join here:
+
+https://t.co/KYPLO17553 https://t.co/aoly57jclh"
+RT @drakefjustin: The AMA thread is now open for questions https://t.co/dQkoNlXOk4
+"RT @sheila_warren: 📣NEW: We're excited to launch the @ethereum #PresidioPrinciples Guidance Doc. 
+
+We hope it'll provide insights for those…"
+"RT @ETHSnakeCharmer: ""Applying the ""Five Whys"" to the Client Diversity problem"" ~
+
+https://t.co/IEaiOz9guF
+
+by @pipermerriam 
+
+#Ethereum"
+"RT @dannyryan: 1/7 The EF is sponsoring 3 prizes ($5K, $3K, and $2K) at HackFS for the top three eth2+libp2p related projects. 
+
+As we near…"
+"RT @dannyryan: We're excited to announce an RfP for an audit of the @herumi mlc and bls libraries as they pertain to their usage in eth2
+
+h…"
+RT @mi_ayako: If you ever think blockchain is only about defi, look how this team is changing counties in LatAm. From subsidies delivery+tr…
+"RT @etherchain_org: The new Ethereum 2.0 Testnet 'Altona' started rolling with four different clients this time.⛓
+
+@sigp_io
+@prylabs
+@ethni…"
+"RT @metamask_io: Today we are beginning to roll out a big update: MetaMask Version 8!
+
+https://t.co/N5ztv2pZGd"
+RT @UNICEFinnovate: Are you a startup working to make financial systems more transparent? To include the unbanked? Or are you exploring new…
+RT @drakefjustin: The Eth2 research team will host a Reddit AMA on July 10 starting at 1pm UTC.
+RT @SourcifyEth: We just published an FAQ, answering many questions around source verification! We cover the very basics of source verifica…
+RT @EntEthAlliance: We are excited to announce our upcoming half-day virtual event, #EntEth2020! Join us on July 30 for a premier gathering…
+"RT @ethswarm: It's time to talk...
+https://t.co/1kqFTwbXbf"
+"RT @EthCatHerders: YOLO: An ephemeral test network for Ethereum
+https://t.co/cnSNxM6elT
+#Ethereum #YOLO #testnetwork https://t.co/sslCvsjwvs"
+RT @EF_ESP: ESP will be live at the #ProtectPrivacy virtual hackathon this Thursday 6/25 at 10am EDT. Come learn about what we do, what we…
+"RT @dannyryan: eth2 quick update #12
+https://t.co/39UIuLIpA2
+
+tl;dr below"
+"For more information, here is last week's announcement by the @reddit team: https://t.co/RGdveLjX1z
+
+Let's do this 🧱🌕🦄"
+"Thinking of participating in the @reddit scaling bake-off? The #Ethereum Foundation is looking to provide some support!
+
+Please fill in the form below to tell us about your plans:
+
+https://t.co/SMSsJYvo7L"
+"RT @OmerShlomovits: We illustrate a covert attack :
+-  vulnerability due to MPC optimisation 
+-  exploit using Threshold Homomorphic Encryp…"
+RT @dankrad: It's time to learn about Kate commitments! They are amazing at enabling ZKPs and are now being considered to replace Merkle tr…
+"RT @the_matter_labs: 1/ Announcing @zksync v1.0! Live on Mainnet today⚡️
+
+Trustless, scalable, &amp; secure payments on Ethereum are coming rig…"
+RT @mi_ayako: 1/ I want us to take a moment to acknowledge that this was a big milestone for us in the space. It was the largest crypto tra…
+The #Ethereum Foundation is thrilled to support @UNICEFinnovate, the @UNICEF Crypto Fund, and each of these new recipients. https://t.co/OL1wUlIRAy
+"Calling All Builders: The @Reddit team's new Community Points system is built on #Ethereum, and you can help bring it to mainnet! 
+
+Read more: https://t.co/354qtvw661"
+RT @maurotov: Un gran orgullo que hoy el @wef publica el informe del uso de Blockchain en contratación pública a partir de un proyecto en C…
+"RT @gichiba: EIP 1559 / Escalator: The future of Ethereum is all shiny and chrome
+https://t.co/IpLTP0fyzH"
+RT @the_matter_labs: 1/ https://t.co/qe9sFF81b3
+RT @ethdotorg: We're now available in traditional Chinese: https://t.co/9roswyoDCg
+"RT @statechannels: Excited to share our work formally modelling (using TLA+) our state channels protocol.
+
+This is the latest blog post in…"
+"RT @benjaminion_xyz: 📰 Your latest, freshest #Ethereum 2.0 news is here! 📰
+
+What's New in #Eth2? - Find it all at the usual place: https://…"
+RT @UNICEFinnovate: 📺Watch: @unicefchief rallies #digitalcooperation to ensure connectivity #foreverychild to access digital tools. @Ethere…
+RT @solidity_lang: We just released Solidity v0.6.10. 🚨 Important: Please upgrade if you are using internal library functions with calldata…
+RT @loopringorg: We know you're not supposed to launch things on Friday nights, but yolo. Loopring Pay is live. Ethereum zkRollup Payments…
+"RT @dannyryan: The State of Eth2, June 2020
+(from my perspective)
+
+https://t.co/JxybTGQG8q"
+RT @austingriffith: ⚖️ Minimum Viable Decentralized Exchange - A 🏗scaffold-eth tutorial where we build a simplified smart contract that pro…
+"RT @StarkWareLtd: 1/ STARKs over Mainnet! 
+StarkEx, our scalability engine, is now live on Mainnet.
+It powers the @deversifi DEX, w/self-cu…"
+RT @NomicLabs: Leave no devs behind! The latest Buidler release enables console.log for Solidity 4 as well as introducing full support for…
+"Where does #eth2 stand today? The latest comprehensive take from @dannyryan is here.
+
+Read more: https://t.co/fYbIk6rR8E https://t.co/m856zVGvbE"
+RT @builtoneth: Built on ethereum. https://t.co/UKKeHtFosh
+"RT @ChainSafeth: Thinking of validating Eth2? Check out 8 Things Every Eth2 Validator Should Know Before Staking by @caymannan 
+
+https://t.…"
+"RT @ETHGlobal: Build on. 
+
+🦄 ETHOnline
+📅 Oct 2 - 30
+⚙️ Summits + Hackathon 
+
+https://t.co/Y2iPqOz4Ht"
+"RT @CarlBeek: Calling all Python security experts: we're announcing the RfP for a security audit of the eth2-deposit-cli. 🎉🐍
+
+If you think…"
+RT @bogotabureau: Thanks to the @bogotabureau, #Bogota welcomes @efdevcon for #2021, one of the most important conferences for developers w…
+"Announcing #Devcon 6: Hacia Colombia en 2021
+
+https://t.co/Nl3W7fj8AO https://t.co/D6DjdvmkMl"
+RT @ethereumJoseph: Big news from @baselineproto today: they've released a demo showing business process automation between SAP &amp; Microsoft…
+RT @fuellabs_: ⛽🌕🧱🔥 Today we’re launching Reddit Cash: a demo of @reddit Moons and Bricks running on a Fuel-powered Burner Wallet via optim…
+"RT @austingriffith: 📣 To the developer procrastinating on that cool app idea... it's time to #BUIDL!
+
+Learn the fundamentals and poke aroun…"
+RT @CarlBeek: Confused about keys in eth2? The next Validated article explains all you need to know about how, and why they work the way th…
+RT @alexisohanian: Hope y'all saw this @reddit news https://t.co/Z1k8iIfHjq
+"Looking to learn more about the #Ethereum Foundation and what we've been working on? The 'EF 2020 Spring Update' has arrived. 
+
+Read more: https://t.co/lhLuL2LjeW"
+RT @EF_ESP: Don't miss the chance to learn more about ESP's inquiry and application process with @nkennethk at @ETHGlobal's HackMoney virtu…
+"RT @sigp_io: We've just released the latest Lighthouse development update, featuring:
+
+- Key management implementation
+- First external sec…"
+"RT @benjaminion_xyz: Your latest barnstorming edition of What's New in #Eth2 is ready 🎉
+
+This could be the biggest and boldest yet 😅
+
+As ev…"
+"RT @weijie_eth: How Minimum Anti-Collustion Infrastructure (MACI) works, plus a simple demo:
+
+https://t.co/8hJ5nOz9jT"
+"RT @austingriffith: 🧐Thinking about building a smart contract application but don't know where to get started?
+
+Check out this straightforw…"
+RT @aantonop: If you speak another language or know someone who does, please share this opportunity! We can work together to educate more p…
+RT @meta_cartel: ⛽️ Next week our very own @lirazsiri  is hosting a workshop on GSN (meta transactions) https://t.co/yE9OzNrWfJ
+RT @lirazsiri: GSN hockey stick thanks to the @Reddit community points integration. Yesterday, more than half of the transactions on Rinkeb…
+RT @solidity_lang: We just published a new blog post in our Solidity 0.6.x feature series. If you want to learn more about how to use the n…
+RT @aantonop: Looking forward to judging at @ETHGlobal’s #HackMoney hackathon later this month! It’s always fun to see what people are buil…
+"RT @peter_szilagyi: Geth v1.9.14 just released!
+
+The highlight of the release is support for un-indexing transaction: configure how many re…"
+Congratulations to @OpenEthereumOrg! https://t.co/7hudZsr9Ky
+"RT @yorkerhodes: @Suhail Shipped this week: the updated 
+""@Microsoft VS @code #Blockchain DevKit for @ethereum""
+ @EntEthAlliance with direc…"
+RT @EF_ESP: Take a look at what ESP funded in the first quarter of 2020: https://t.co/ShhgESBbHG
+"It's time for @EtherealSummit online! Tune in and let's learn about #Ethereum together.
+
+https://t.co/r2xRjTVDkr https://t.co/Cv7IeMRIu9"
+"RT @dannyryan: eth2 quick update no. 11
+
+testnets, testnets, testnets
+
+https://t.co/gwA7r4hLmQ
+
+tl;dr below"
+"RT @ethdotorg: Development update #3!
+
+- 🗣 Help us reach 30 languages!
+- 🤖 https://t.co/FVvSiRhFfu now available on @ensdomains + @IPFSbot…"
+RT @solidity_lang: Solidity 0.6.7 is out! 🚀 It introduces support for EIP-165 via `type(InterfaceName).interfaceId` and allows virtual modi…
+"RT @ETHGasStation: #10,000,000  🤯
+
+TEN MILLION blocks on #Ethereum. Wow, what an amazing thing to see and share with this wonderful communi…"
+"RT @gichiba: A primer for understanding the #StatelessEthereum Witness Specification. 
+
+TL;DR: 
+Witness Spec ~=~🐃🐃🐃🐃🐃🐃🐃🐃
+
+https://t.co/GKGM…"
+"RT @benjaminion_xyz: Apparently Saturday is the new Friday. Who knew? 🤷‍♂️
+
+Anyway, another epic edition of What's New in Eth2 has landed!…"
+RT @austingriffith: My latest @ethereum tutorial is already out of date, but I'm sharing the rough [first draft] anyways: https://t.co/27xP…
+"RT @ensdomains: 📣ATTENTION .ETH NAME OWNERS📣
+
+The time has finally come.
+
+If you snagged a .ETH name back in the early days of ENS, you wil…"
+RT @EF_ESP: Want to keep up with the latest in ESP news? Sign up to get updates to your inbox: https://t.co/hsGksZvQhL
+RT @solidity_lang: Loading #SoliditySummit 2020... See you all in interspace (@interspacechat) on Wednesday! https://t.co/ii4ucaqvuo 🛸✨ htt…
+"RT @econoar: Eth2 multi-client testnet is up and running. So far, Prysm and Lighthouse have joined.
+
+https://t.co/h8xNwSjpyc"
+"RT @sigp_io: Our latest #Lighthouse update is out:
+
+- v0.11.1 Testnets
+- Testnet Automation
+- Stable @rustlang Futures
+- API Improvements
+-…"
+"RT @AnettRolikova: Announcing the Ethereum Meetup Support Program 💜
+
+""In Ethereum cyberspace, meetups are about knowledge exchange, network…"
+"RT @benjaminion_xyz: The world may be locked down, but #Ethereum 2.0 roams freely 🚀
+
+Find out what it's been up to in the latest What's New…"
+"RT @identhree: In this guide, we take you through the creation and execution of your first zero-knowledge proof.
+
+We assume as little backg…"
+"RT @EthereumRemix: 🎈💐release! 💙release! ✌️ release! 🥳🎈
+v0.10.0 is out ;)
+
+https://t.co/WR8k6kL6O6"
+"RT @peter_szilagyi: What a wonderful day for an #Ethereum release! :D
+
+Geth v1.9.13 just out! It ships a new snapshot format (not enabled b…"
+"RT @prylabs: Introducing our next test network release: 
+
+💎 The Topaz Testnet 💎
+
+☑️ 32 ETH deposits
+☑️ Full mainnet configuration
+☑️ Latest…"
+"RT @AnettRolikova: Highlights from Ethereum Meetup Organisers Survey are live 🎉
+Survey was for Ethereum Meetup Organisers to discover their…"
+RT @qnou: The rest of the world might be at a stand still, but Ethereum 2.0 is progressing at an accelerated rate. Here are some learnings…
+"RT @sina_mahmoodi: I've had this draft for a while...publishing finally to serve as a distraction from all the corona news
+
+https://t.co/Jf…"
+"The latest research &amp; development update from many EF-supported teams is here. It's big and full of updates from a whole host of talented builders. Enjoy!
+
+https://t.co/f5bb2QbSMw"
+"RT @ethnimbus: We hope you’re all managing to stay sane and safe  Here’s a quick update from us 💛
+
+https://t.co/y4IzHx7avx"
+RT @weijie_eth: We have launched the multi-party trusted setup ceremony for Semaphore, a zero-knowledge gadget for privacy-preserving use c…
+"RT @EthereumOnARM: Full sync achieved in 26 hours on a NanoPC-T4 with @nethermindeth client.
+
+Really, we need to give a chance to this #eth…"
+"RT @adiasg: Now that you know the basics of Casper FFG, find out how it is implemented in Eth2.0 from my new post:
+https://t.co/uCY4wT67F1"
+RT @vacp2p: Want to learn about DHTs, Kademlia, discv4 &amp; discv5? Read this brief post by @DeanEigenmann that summarizes all the basics you…
+"RT @ethzed: 🐞 I've just released a new update on our fuzzing shenanigans for #Eth2 🐞
+
+- Critical SSZ decoding bug
+- Overflows in Beacon Sta…"
+"RT @ETHGlobal: 1. We're excited to announce the #hackmoney online hackathon!
+
+📅 Starting → Mid-April
+
+📰 Apply here → https://t.co/P4xBkaCO6…"
+RT @benjaminion_xyz: It might not be entirely obvious from the pic 😂, but this is the Teku #eth2 client from @PegaSysEng fully synced with…
+RT @solidity_lang: Solidity 0.6.5 is there! 🎉 It fixes a bug concerning the allocation of dynamic memory arrays and introduces `immutable`…
+RT @ricmoo: So much indoors, so little excuse to not be strange. Hence, Rooted: far-too-easy-to-upgrade Ethereum contracts. Send bytecode t…
+"RT @benjaminion_xyz: We're a day late - sorry! But it's well worth waiting for 😁
+
+All your latest #Ethereum 2.0 news is here: https://t.co/…"
+RT @raulitojordan: I just published Eth 2.0 Dev Update #47 — ‘Multiclient Target Testnet Restart &amp; Security Audit RFP’ https://t.co/QS22cNb…
+"RT @ralexstokes: i just wrote a brief explainer on the work behind EIP-2537 to add BLS cryptography to the EVM:
+
+https://t.co/tVAciZh7Xm"
+RT @samonchain: This chart of @ethdotorg web traffic highlights how truly global  #Ethereum is. In September we started adding translations…
+"RT @adiasg: Wondering what Casper FFG is all about? Check out my new Casper FFG Explainer post:
+https://t.co/MWXGqJsmkN"
+"RT @Dharma_HQ: 1/ 
+Since we launched peer-to-peer payments, scaleability has morphed from a theoretical problem for us to a pressing concer…"
+RT @gichiba: The #StatelessEthereum Tech Tree has been updated! https://t.co/TrjvjVArKa
+"RT @sigp_io: The latest Lighthouse development update is out! Featuring:
+
+- Stable public testnet
+- Eth2 spec bug
+- Upgrade to spec v0.11
+-…"
+"Check out and follow the #Ethereum Foundation's Ecosystem Support Program, and be sure to dig into the latest allocation update below!
+
+https://t.co/cSIxoiK4MW https://t.co/BDEYeuA8JI"
+"RT @ensdomains: The @ethereum website is now available on IPFS at ethereum.eth! 👏👏👏
+
+On @opera, @brave, @ethstatus, MetaMask Mobile, or w/…"
+It's time for #eth2 quick update no. 10. Thanks @dannyryan! https://t.co/fkH8Epgtkh
+RT @metamask_io: In this time of quarantine and self reflection 🦊MetaMask🦊 is on a mission to improve our Ethereum provider and its documen…
+"RT @fuellabs_: ⛽ Today we’re proud to release the first public version of Yul+, new low-level language for Ethereum!
+
+Yul+ makes writing st…"
+"RT @identhree: We've just published a new version of circom!! 🚀
+https://t.co/SHt2gJFurQ
+
+The main improvements are:
+
+- Faster compilation t…"
+RT @EthereumOnARM: New reddit post. #Ethereum on ARM images update. @PegaSysEng @Hyperledger Besu and @nethermindeth included. @prylabs Pry…
+"RT @ethnimbus: In the hope of giving you a brief respite from all this madness, here’s our March update 💛
+
+https://t.co/oO64Vf0nSy"
+RT @aztecprotocol: We're excited to present an overview of our ZK² Rollup programme, bringing cryptographic scaling to the Aztec network ht…
+"RT @peter_szilagyi: Remember the transaction propagation update released in Geth 1.9.11? The jury is coming in!
+
+The eth/65 protocol seems…"
+"Learn more about validating on #eth2 with @CarlBeek's ""Validated"" series, and the latest edition (on Sharding Consensus) below:
+
+https://t.co/fwrrP1pXlG https://t.co/4joXI5o0mv"
+"RT @gballet: A blog post about converting the state tree from hexary to binary
+https://t.co/OgCiEwwH2J"
+"RT @josephch: Ethereum 2020: A Roadmap and Outlook https://t.co/9omsBvEOJZ
+The Beacon Chain and BLS12-381 precompile look likely for 2020.…"
+"RT @gichiba: Stateless Ethereum March 25th call digest: 
+https://t.co/VxPkAGwbkl
+
+Too Long; Didn't Call:
+* Merry go round sync 🎠
+* Side que…"
+"Tune into a presentation from members of the @EntEthAlliance Mainnet Working Group on April 3rd! 
+
+See more: https://t.co/TM1CISFV6h https://t.co/0p2E9izF1I"
+RT @Azure: Learn how the Baseline Protocol uses libraries on the Public Ethereum Mainnet in this workshop from @env_blockchain: https://t.c…
+"RT @ETHGlobal: 📞Calling all Ethereum developers: we need your input! 
+
+Help us by filling out the ETHGlobal Developer Survey today. Your re…"
+"RT @VitalikButerin: This is my approximate view of what the next ~5-10 years of eth2 and beyond might look like.
+
+Roadmap below reflects my…"
+"RT @dannyryan: Thank you! It was a pleasure to work with @LeastAuthority on this :)
+
+Now time for multi-client testnets and our Phase 0 bug…"
+"RT @owocki: Gitcoin Grants Round 5 ($250k Match) is now live!
+
+New goodies this round:
+1. Flag Grant
+2. Negative voting (media round only)…"
+RT @mvmurthy: My 'Full Stack Hello World voting dapp' tutorial has more than 11k claps on Medium, so I updated it to current libraries so d…
+RT @TenderlyApp: After one year of development, user feedback, conferences, blog posts, coffee, etc. Tenderly is finally out of beta! 🚀🎉🥳…
+"RT @benjaminion_xyz: 🚂The world may have stopped, but #Ethereum 2.0 just keeps on chugging.
+
+I've made https://t.co/97X85jdCzM up to date w…"
+"RT @terencechain: Eth2 Dev Update #46 - “Slasher running + Integrated fuzz testing”  from your friends @prylabs 
+
+https://t.co/LdPcKqWXTx…"
+"RT @ethdotorg: Development Update #2
+
+🎨 Style guide &amp; design upgrade
+🦄 Community page
+💻 Studio feature simplification 
+++   More!
+
+https://…"
+RT @solidity_lang: Hello, World! 🌐
+RT @austingriffith: Know anyone hunkered down and bored that wants to learn more about Ethereum? Send them this https://t.co/LdM8jLNL7H pla…
+RT @aantonop: Do you speak another language or know someone who does? If you're stuck inside and want to learn more about Ethereum, you cou…
+"RT @0xKiwi_: Just published https://t.co/UsRvnZJAiE !
+Many people think ETH2 is just staking  + sharding, but it means much more than that!"
+RT @ethchris: It turns out that you were able to override private functions in #Solidity before 0.6.0. That's why we released 0.5.17 - http…
+"The latest 'eth2 quick update' is here from @dannyryan! 
+
+https://t.co/2ewn6M0Hqf"
+RT @EthTurin: Find all details about ETHTURIN going virtual on our website: https://t.co/SuFHZPmomv and apply to hack on local and sustaina…
+RT @peter_szilagyi: Geth v1.9.12 (Tall Moose) just out! Fixes a few issues here and there; also changes `eth_call` to **not** use your defa…
+"RT @raulitojordan: Amidst the current sentiment, I just published ""On the Brink…"" https://t.co/EklnQvrUC8 #Ethereum"
+"RT @ethnimbus: Update time!
+Announcing a bounty program restart, a call for a common standard around logs, some thoughts on low-power devic…"
+RT @kobigurk: VDFs are a wonderful tool with many applications, and it's tricky to get them right. Also, some variants rely on new assumpti…
+RT @gichiba: The 1.x Files: Stateless Summit Summary  - my brain dump from this phenomenal week in Paris https://t.co/oiDHUiRkh6
+RT @dankrad: Congratulations to Novak Kaluđerović, Dušan Kostić and Thorsten Kleinjung for solving RSA adaptive root challenge 0! #eth2 #cr…
+RT @zeroknowledgefm: 🔉 This week, we catch up with @drakefjustin &amp; @VitalikButerin from the @ethereum foundation to dig into their current…
+RT @raulitojordan: I just published Eth 2.0 Dev Update #45 — ‘Cross-Compiles &amp; Slashing Protection’ https://t.co/73ulZRHvGD #Ethereum @pryl…
+"RT @dannyryan: Super excited to see this published. Incredible effort put into this paper by @krzhang and his students.
+
+This extension of…"
+RT @ethchris: #Solidity 0.6.4 is here fixing inheritance and scoping bugs and allowing low-level access to storage pointers: https://t.co/P…
+RT @jwolpert: More preview content for #baselineprotocol being made public tomorrow morning. Friday, we will announce the date we intend to…
+RT @DelRayMan: On Friday, Fatburger quietly raised $39.7 million in a historic deal that not only involved securities issued on #ethereum,…
+"RT @AgeManning: New #lighthouse development update is out: https://t.co/xKCO6JSv0T
+
+Significant performance improvements, beginnings of a L…"
+RT @krzhang: Combining GHOST and Casper out on arXiv: https://t.co/vClQm0Bbs5 We study an idealized version of the Ethereum 2.0 Beacon Chai…
+RT @ethereumJoseph: Today @ConsenSys, @EYnews &amp; @Microsoft announced the Baseline Protocol, an open source initiative that combines advance…
+RT @weijie_eth: Want to build a privacy-preserving application on Ethereum, but don't know zk-SNARKs? Semaphore has you covered for use cas…
+RT @jbaylina: The iden3 team is moving full steam ahead to bring https://t.co/Fev5ay8X3y tech into production. We just launched a testnet i…
+"RT @benjaminion_xyz: What's New in Eth2?
+
+- Slashing news 🪓
+- EthCC news 🥖🍷
+- Research news 🤓
+
+And so much more!
+
+Get your very own copy at…"
+"RT @ethswarm: #ethswarm's February development update is here! Sweeter than honey better than money, read all: 
+https://t.co/V4ndqbQS2I #Et…"
+"RT @ETHGlobal: 👋 hey Ethereum! 
+
+We've built a survey to help us better understand the developer community
+
+Fill it out, and you can win:…"
+RT @baselineproto: #baselineprotocol news of the day..so far:  https://t.co/AQqdKqpau7
+"RT @wighawag: Hey all, finally releasing my article on #ethereum and gas : https://t.co/VFgTSocIXa
+It explain how gas works and show some o…"
+"RT @nkennethk: during @ETHGlobal events, a common question i get is ""how do i participate in eth2?"" 
+1. @VitalikButerin has a great resourc…"
+RT @EFDevcon: I'm all the way up! What's ahead for the @Ethereum Foundation's #Devcon? See the latest from the team below on where we're go…
+"RT @NomicLabs: Making Solidity stack traces and console.log even more useful
+
+https://t.co/x0M4VKtsP5 https://t.co/RW2VuGdnAx"
+RT @naddison: I’ve just published tx2uml, an Ethereum transaction visualizer. Using @AlethioEthstats’s APIs, it generates a UML sequence di…
+"RT @loopringorg: We couldn't wait until March. Loopring Exchange is live 😁
+
+zkRollup DEXes on Ethereum are here today.
+
+https://t.co/1Hs5ZM…"
+"RT @ETHGlobal: First ETHLondon finalist: GoodGhosting
+
+- Players deposit DAI into @AaveAave
+- Players who ghost their friends lose right to…"
+"First time building on #Ethereum at @ETHGlobal's #ETHLondon this weekend? Dive into the ultimate #ETH hackathon survival guide from the team at @ConsenSys for tools and tips to help make the most of the experience! 
+
+https://t.co/5lp1n0PJEz https://t.co/P1RGyoqwBJ"
+RT @gichiba: The 1.x Files: February call digest | Ethereum Foundation Blog - https://t.co/Cz05TqH4xE
+RT @aantonop: In November 2018, #MasteringEthereum was published. Chapter 1 is now available as an open-source PDF and ready for translatio…
+"RT @ethnimbus: February so far!
+
+https://t.co/XjvRssf8BU
+
+lots of bug hunting and fixing, but some juicy new features as well - tldr; below"
+"RT @protolambda: We are looking for Eth2 hackers! And at @ETHLondonUK we will help you get into #Ethereum protocol development 👏
+
+You can g…"
+RT @josephch: The Beacon Chain Ethereum 2.0 explainer you need to read first https://t.co/xLIuf6Diks
+"RT @krzKaczor: ☠️☠️☠️  DETH NODE  ☠️☠️☠️
+
+Ethererum node focused on DX. I've worked on this with @PSzlachciak for a few weeks now
+
+👉decode…"
+RT @statechannels: A brief overview of how we built a decentralized rock paper scissors game on ethereum: https://t.co/6HBqr8Pxq0
+RT @EthereumRemix: https://t.co/oSlJNzzd3c
+RT @aztecprotocol: New benchmarks for TurboPLONK 🚀- this time, Pedersen hashes, and a 5x speed-up on Groth16 https://t.co/dlrsJTKhuJ
+RT @aantonop: @EthereumDenver Surprisingly, we have not yet had volunteers from the #Spanish language #Ethereum community join the effort t…
+"RT @benjaminion_xyz: Your latest What's New in Eth2 is ready and waiting for you!
+
+https://t.co/97X85jdCzM
+
+In this edition, I unveil my se…"
+RT @nkennethk: happy friday yall just a reminder if you're looking for @EF_ESP ethereum ecosystem support, we've got a PACKED wishlist for…
+RT @_SamWilsn_: Following up on our research into state provider models, we've prototyped an extension to solidity that can detect dynamic…
+RT @dankrad: New bounties for breaking RSA adaptive root assumption. Redeem for up to 29 ETH on-chain https://t.co/udQ4uBR7Oh #SBC20 #crypt…
+"RT @ralexstokes: Early draft of an EIP to add BLS12-381 precompiles to the EVM: https://t.co/3uZFbsCJfA
+
+important for next-gen blockchain…"
+"RT @DZack23: It's arrived — The State of Optimistic Rollup!
+
+Have at it:
+
+https://t.co/RWUN9YxuOw"
+"RT @JonnyRhea: 0/  Tweet storm on how to experiment with Eth 2.0 EEs
+
+Credit to @matt_garnett for partnering with me on this.  Also a shout…"
+RT @wjvill: Just posted an implementation, vision and background plan for eth2 phase 2 moving forward. This represents the work Quilt will…
+RT @gichiba: https://t.co/laqeuo1oD3 &lt; in which I give a little TL;DR of Stateless Ethereum research: What's known, what's not known but we…
+RT @ethchris: #Solidity 0.6.3 released providing debug messages for internal reverts, contracts and enums as mapping keys and better error…
+RT @peter_szilagyi: Geth v1.9.11 (Weeping Heart) just out! DNS discovery, sqrt tx propagation bandwidth, new .js engine and fixes all aroun…
+"RT @ethchris: The #Ethereum #Solidity language summit is coming - April 29+30, Berlin!
+Debuggers, novel language features, libraries, metad…"
+"RT @EthCC_: Guess who’s back ? Back again at #EthCC 
+@VitalikButerin is it for the 🥐🥖 to perfect your 🇫🇷 or because you 🧡 the community of…"
+"RT @ETHGlobal: Join us at our venue in the centre of London @8Northumberland Avenue for ETHLondon! 🇬🇧
+
+If you haven't already, apply to hac…"
+"RT @OffchainLabs: 3…2…1…and…Arbitrum Rollup is live on testnet!🎬🎬🎬
+ 
+Featuring:
+ 
+✅ Full smart contract support
+✅ Compilation from Solidity…"
+RT @har00ga: 🚨 ATTENTION EXPERIENCED DEVS: Prysmatic Labs is seeking another Software Engineer! Come help make #ETH2 a reality while workin…
+RT @mandrigin: One more experiment of #StatelessEthereum that I've been working on and got some first results. This time it is about one ap…
+RT @optimismPBC: Check it out! We're stoked to present the alpha release of the OVM - the backend that enables smart contract scalability i…
+"RT @dannyryan: Check out the eth2 bounties at @EthereumDenver
+
+https://t.co/zknl6jc7Sv
+
+Come find me, @protolambda, and many eth2 client te…"
+"RT @paulhauner: The new 100k validator #Lighthouse #eth2 testnet running on 12x low-spec AWS instances (2-core, 4gb).
+
+It's running the sta…"
+"The latest edition of ""Validated"" from @CarlBeek covers consensus in #eth2.  Check it out below! https://t.co/X5n8jm25gM"
+"RT @identhree: Sparse Merkle trees: a visual introduction
+
+Building off last week's visual story on Merkle trees, this week we dig into a s…"
+"RT @trent_vanepps: I just published an article on Eth2 misconceptions
+
+Hoping this can be a resource for casual observers returning to the…"
+RT @trpocock: Researchers from @aztecprotocol, @ethereum and @Stanford recently released a new Polynomial Commitment Scheme. Here are my no…
+"RT @vacp2p: A new post by @DeanEigenmann, on dns based discovery and EIP-1459. Something we are using in Waku, our whisper fork.
+
+https://t…"
+"RT @BokkyPooBah: A Practical Guide To Building Zero Knowledge dApps - @kendricktrh. From r/ethdev
+
+https://t.co/alLANc7oeh https://t.co/Uh7…"
+"RT @benjaminion_xyz: Hey, hey, hey...
+
+I'm late tweeting this one out, but @twigwam is on the ball 🙂
+
+Anyway, your latest #Ethereum 2.0 new…"
+"RT @OpenZeppelin: OpenZeppelin Contracts v2.5 is out! 🚀
+
+Featuring:
+
+- EnumerableSet, an iterable mapping
+- A library for using CREATE2
+- A…"
+RT @m_ratsim: The #ethnimbus team is currently meeting in Brussels, playing with the first mobile #Eth2 testnet https://t.co/X4wYql3WEZ
+RT @aztecprotocol: After our network launch last Friday, today we put $10k of zkDAI into the Aztec network: https://t.co/YmdoIIdiTr
+The Eth 2.0 AMA (Round 3) has begun! Post your questions here: https://t.co/bgo4asHsFK
+RT @MyCrypto: We're proud to announce that contributions from #MyCryptoWinter will be used to help send @Ethereum Scholars to #ETHDenver!…
+"RT @ensdomains: ENS runs on Ethereum and uses ETH - no dedicated blockchain or special token creating unnecessary friction. 👍
+
+We think thi…"
+[AMA] Join us tomorrow at 1PM UTC for the 3rd installment of the Eth 2.0 Reddit AMA featuring @dannyryan, @VitalikButerin, @icebearhww, @drakefjustin, and others from the Eth 2.0 team! https://t.co/leZIoK4N6Q
+The latest #eth2 quick update from @dannyryan is here! &lt;3 https://t.co/hv2WLHYYaS
+RT @ethtrustorg: Today we are very proud to announce the formation of the Ethereum Trust Alliance (ETA)! Learn more about what we are build…
+"RT @whiteblock: 👋 We just published our report on gossipsub, funded by @Consensys &amp; the @ethereum Foundation. Dive into:
+
+- The full report…"
+"RT @ensdomains: Here's a list of every project we know of w/ ENS &amp; whether we've confirmed they've updated to the new ENS registry.
+
+Once y…"
+RT @the_matter_labs: Excited to announce the long-awaited alpha release of Zinc framework — a programming language and execution environmen…
+RT @prylabs: 📣 Latest development update is here! https://t.co/d97fVxPTOY
+"RT @AgeManning: Latest lighthouse update is out. 
+
+We've been focused on testnets, performance updates and stability improvements. 
+
+Expect…"
+"RT @gichiba: This one has been my favorite so far, but only because i got to write the phrase ""a wee bit leaky in the ol' state machine abs…"
+"RT @ETHGlobal: 🇬🇧 Applications are OPEN (and filling up) for ETHLondonUK!
+
+💰  £50K + in prizes
+🎉  Free for all attendees
+📆  Feb 28 - March…"
+RT @ethnimbus: The Nimbus team has been awarded a follow up grant from the Ethereum Foundation to continue work on the public multi-client…
+"RT @ethchris: #Solidity 0.6.2 is fresh off the press and includes high-level access to the ""create2""-opcode, interface inheritance, much fa…"
+RT @ptsankov: Securify v2.0 released! A complete re-design that builds on a number of clean PL techniques to enable precise, scalable, and…
+"RT @NomicLabs: Better Solidity debugging: console.log is finally here
+
+https://t.co/GUlTFSEsdm https://t.co/TVf0YciknM"
+RT @benjaminion_xyz: 🎉 Here's your regular round-up of #Ethereum 2.0 progress, research, community calls, articles, explainers, and all the…
+"RT @ethdotorg: 🎉 say hello to our new community page!
+
+👉 https://t.co/4hZTFvCRAl
+
+🦄 an easy landing page to help people get involved with t…"
+RT @bobbinth: New versions of genSTARK and AirScript are out: https://t.co/6cPVCnRJpp AirScript now can be compiled into AirAssembly and su…
+"RT @protolambda: Now that Eth2 phase0 stabilized, there are some big spec extension and usability improvements in the pipeline.
+#ethereum #…"
+RT @ethdevbcn: Find the @jbaylina talk slides about the @identhree zk-rollup at https://t.co/zdK4L5qfAF
+What a year it was! https://t.co/VjhRHo2AfV
+RT @EthereumDenver: BUIDLers: Due to the overwhelming amount of applications we have received the last few days, we are re-opening apps thr…
+"RT @rv_inc: More details on the Formal Verification of @ethereum 2.0 Deposit Smart Contract: https://t.co/x59nl4M3Vi
+
+The final report is a…"
+"RT @peter_szilagyi: Happy New Year!
+
+Geth v1.9.10 (Rojo Loco) just out! Among the fixes and polishes, it also bumps the propagated tx limit…"
+"RT @drakefjustin: 👇three 1-hour zero-knowledge study clubs on polynomial commitments hosted by @AnnaRRose
+
+part 1—https://t.co/2rUQuwrPB5
+p…"
+RT @gballet: A summary of what I've been working on in the past few months https://t.co/4CJLK8GmGj
+RT @gichiba: For those interested in keeping tabs on the latest in stateless #Ethereum research, here's a condensed summary of everything d…
+"RT @icebearhww: A note on Ethereum 2.0 attestation aggregation strategies
+https://t.co/cxfMj6Xbhp
+
+Special thanks to @dannyryan for reviewi…"
