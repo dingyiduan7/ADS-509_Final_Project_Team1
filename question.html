@@ -1,0 +1,23 @@
+<html>
+<head>
+        <title>Question</title>
+</head>
+<body>
+        <header>
+                <div class="container">
+                <div id="brandname">
+                        Tweet Handle Classification of Popular Cryptocurrencies
+                </div>
+                </header>
+                <div class="ml-container">
+                        <form action="{{ url_for('predict')}}" method="POST">
+                        <p>Question: What is the tweet?</p>
+                        <!-- <input type="text" name="comment"/> -->
+                        <textarea name="tweet" rows="5" cols="50"></textarea>
+                        <br/>
+                    
+                        <input type="submit" class="btn-info" value="Let's See!">
+                </form>
+                </div>
+</body>
+</html>
